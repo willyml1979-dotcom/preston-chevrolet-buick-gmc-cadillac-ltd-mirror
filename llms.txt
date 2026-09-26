@@ -1,0 +1,11 @@
+# Preston Chevrolet Buick GMC Cadillac Ltd.
+
+> Preston Chevrolet Buick GMC Cadillac Ltd. is a  dealership in Langley. This mirror provides AI-readable access to current inventory and dealership information, kept in sync with the dealership's own website.
+
+## Inventory
+- [Used vehicles](https://willyml1979-dotcom.github.io/preston-chevrolet-buick-gmc-cadillac-ltd-mirror/used/): 393 vehicles, updated regularly
+- [Inventory feed](https://willyml1979-dotcom.github.io/preston-chevrolet-buick-gmc-cadillac-ltd-mirror/inventory.json): structured JSON, all vehicles with VIN, price, mileage and availability
+
+## Resources
+- [Dealership information](https://willyml1979-dotcom.github.io/preston-chevrolet-buick-gmc-cadillac-ltd-mirror/): business identity, contact and hours
+- [Financing, sales and service guides](https://willyml1979-dotcom.github.io/preston-chevrolet-buick-gmc-cadillac-ltd-mirror/pages/): dealer-specific buyer guides
