@@ -1,7 +1,7 @@
 {
   "dealership": "Preston Chevrolet Buick Gmc Cadillac Ltd",
-  "generated_at": "2026-09-26T11:47:21",
-  "vehicle_count": 393,
+  "generated_at": "2026-09-27T01:37:37",
+  "vehicle_count": 397,
   "currency": "CAD",
   "note": "Machine-readable inventory feed published by AiOptics. Each vehicle links to its full detail page.",
   "vehicles": [
@@ -13,7 +13,7 @@
       "url": "https://willyml1979-dotcom.github.io/preston-chevrolet-buick-gmc-cadillac-ltd-mirror/used/416754ca6b41.html",
       "source_url": "https://www.prestongm.com/inventory/Used-2015-Chevrolet-Silverado_1500-LT-3GCUKREC7FG169911/",
       "dealer_url": "https://www.prestongm.com/inventory/Used-2015-Chevrolet-Silverado_1500-LT-3GCUKREC7FG169911/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-26T01:23:45",
+      "last_verified": "2026-09-27T01:35:18",
       "condition": "used"
     },
     {
@@ -24,7 +24,7 @@
       "url": "https://willyml1979-dotcom.github.io/preston-chevrolet-buick-gmc-cadillac-ltd-mirror/used/16fbd53c7e73.html",
       "source_url": "https://www.prestongm.com/inventory/Used-2015-Volvo-V60-T5_Premier_Plus-YV1612SL2F1263338/",
       "dealer_url": "https://www.prestongm.com/inventory/Used-2015-Volvo-V60-T5_Premier_Plus-YV1612SL2F1263338/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-26T01:23:52",
+      "last_verified": "2026-09-27T01:35:28",
       "condition": "used"
     },
     {
@@ -35,7 +35,18 @@
       "url": "https://willyml1979-dotcom.github.io/preston-chevrolet-buick-gmc-cadillac-ltd-mirror/used/682945baa9f5.html",
       "source_url": "https://www.prestongm.com/inventory/Used-2017-Chevrolet-Malibu-LT-1G1ZE5ST8HF119705/",
       "dealer_url": "https://www.prestongm.com/inventory/Used-2017-Chevrolet-Malibu-LT-1G1ZE5ST8HF119705/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-26T01:23:59",
+      "last_verified": "2026-09-27T01:35:37",
+      "condition": "used"
+    },
+    {
+      "name": "Used2017GMCYukon XLAWDDenali",
+      "vin": "1GKS2HKJ8HR406000",
+      "stock": "6208571",
+      "color": "Iridium Metallic",
+      "url": "https://willyml1979-dotcom.github.io/preston-chevrolet-buick-gmc-cadillac-ltd-mirror/used/22c4ca700261.html",
+      "source_url": "https://www.prestongm.com/inventory/Used-2017-GMC-Yukon_XL-Denali-1GKS2HKJ8HR406000/",
+      "dealer_url": "https://www.prestongm.com/inventory/Used-2017-GMC-Yukon_XL-Denali-1GKS2HKJ8HR406000/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-27T01:34:45",
       "condition": "used"
     },
     {
@@ -46,7 +57,7 @@
       "url": "https://willyml1979-dotcom.github.io/preston-chevrolet-buick-gmc-cadillac-ltd-mirror/used/fdc82cb98ac5.html",
       "source_url": "https://www.prestongm.com/inventory/Used-2017-Toyota-4Runner-SR5-JTEBU5JR0H5424375/",
       "dealer_url": "https://www.prestongm.com/inventory/Used-2017-Toyota-4Runner-SR5-JTEBU5JR0H5424375/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-26T01:24:08",
+      "last_verified": "2026-09-27T01:35:46",
       "price": 32786.0,
       "price_currency": "CAD",
       "condition": "used"
@@ -59,7 +70,7 @@
       "url": "https://willyml1979-dotcom.github.io/preston-chevrolet-buick-gmc-cadillac-ltd-mirror/used/fab647db3ff8.html",
       "source_url": "https://www.prestongm.com/inventory/Used-2018-Toyota-Corolla-LE-2T1BURHE0JC121569/",
       "dealer_url": "https://www.prestongm.com/inventory/Used-2018-Toyota-Corolla-LE-2T1BURHE0JC121569/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-26T01:24:15",
+      "last_verified": "2026-09-27T01:35:56",
       "price": 16995.0,
       "price_currency": "CAD",
       "condition": "used"
@@ -72,7 +83,7 @@
       "url": "https://willyml1979-dotcom.github.io/preston-chevrolet-buick-gmc-cadillac-ltd-mirror/used/dcf5327e2945.html",
       "source_url": "https://www.prestongm.com/inventory/Used-2019-Chevrolet-Impala-LT-2G11Z5S37K9144001/",
       "dealer_url": "https://www.prestongm.com/inventory/Used-2019-Chevrolet-Impala-LT-2G11Z5S37K9144001/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-26T01:24:25",
+      "last_verified": "2026-09-27T01:36:06",
       "condition": "used"
     },
     {
@@ -83,7 +94,7 @@
       "url": "https://willyml1979-dotcom.github.io/preston-chevrolet-buick-gmc-cadillac-ltd-mirror/used/935f457aead9.html",
       "source_url": "https://www.prestongm.com/inventory/Used-2019-Chevrolet-Malibu-Premier-1G1ZE5SX2KF164617/",
       "dealer_url": "https://www.prestongm.com/inventory/Used-2019-Chevrolet-Malibu-Premier-1G1ZE5SX2KF164617/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-26T01:24:34",
+      "last_verified": "2026-09-27T01:36:15",
       "condition": "used"
     },
     {
@@ -94,7 +105,7 @@
       "url": "https://willyml1979-dotcom.github.io/preston-chevrolet-buick-gmc-cadillac-ltd-mirror/used/4db08984796b.html",
       "source_url": "https://www.prestongm.com/inventory/Used-2019-Ford-Expedition-Platinum-1FMJU1MT3KEA21946/",
       "dealer_url": "https://www.prestongm.com/inventory/Used-2019-Ford-Expedition-Platinum-1FMJU1MT3KEA21946/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-26T01:24:41",
+      "last_verified": "2026-09-27T01:36:23",
       "price": 37495.0,
       "price_currency": "CAD",
       "condition": "used"
@@ -107,7 +118,7 @@
       "url": "https://willyml1979-dotcom.github.io/preston-chevrolet-buick-gmc-cadillac-ltd-mirror/used/01ad68749d6c.html",
       "source_url": "https://www.prestongm.com/inventory/Used-2019-Mercedes--Benz-S--Class-S_560-WDDUG8GB8KA453448/",
       "dealer_url": "https://www.prestongm.com/inventory/Used-2019-Mercedes--Benz-S--Class-S_560-WDDUG8GB8KA453448/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-26T01:24:50",
+      "last_verified": "2026-09-27T01:36:33",
       "condition": "used"
     },
     {
@@ -118,7 +129,7 @@
       "url": "https://willyml1979-dotcom.github.io/preston-chevrolet-buick-gmc-cadillac-ltd-mirror/used/d0a727ea55e0.html",
       "source_url": "https://www.prestongm.com/inventory/Used-2019-Toyota-Highlander-LE-5TDBZRFH3KS993641/",
       "dealer_url": "https://www.prestongm.com/inventory/Used-2019-Toyota-Highlander-LE-5TDBZRFH3KS993641/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-26T01:24:58",
+      "last_verified": "2026-09-27T01:36:40",
       "price": 30497.0,
       "price_currency": "CAD",
       "condition": "used"
@@ -131,7 +142,7 @@
       "url": "https://willyml1979-dotcom.github.io/preston-chevrolet-buick-gmc-cadillac-ltd-mirror/used/017681e5eafb.html",
       "source_url": "https://www.prestongm.com/inventory/Used-2020-Audi-S5_Sportback-Progressiv-WAUA4CF54LA004755/",
       "dealer_url": "https://www.prestongm.com/inventory/Used-2020-Audi-S5_Sportback-Progressiv-WAUA4CF54LA004755/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-26T01:25:06",
+      "last_verified": "2026-09-27T01:36:48",
       "price": 37497.0,
       "price_currency": "CAD",
       "condition": "used"
@@ -143,7 +154,7 @@
       "url": "https://willyml1979-dotcom.github.io/preston-chevrolet-buick-gmc-cadillac-ltd-mirror/used/8d13269cb923.html",
       "source_url": "https://www.prestongm.com/inventory/Used-2020-Cadillac-CT5-Luxury-1G6DM5RK6L0131674/",
       "dealer_url": "https://www.prestongm.com/inventory/Used-2020-Cadillac-CT5-Luxury-1G6DM5RK6L0131674/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-26T01:25:13",
+      "last_verified": "2026-09-27T01:36:57",
       "condition": "used"
     },
     {
@@ -154,7 +165,7 @@
       "url": "https://willyml1979-dotcom.github.io/preston-chevrolet-buick-gmc-cadillac-ltd-mirror/used/d1a10a512aad.html",
       "source_url": "https://www.prestongm.com/inventory/Used-2020-Cadillac-XT6-Sport-1GYKPGRS6LZ141229/",
       "dealer_url": "https://www.prestongm.com/inventory/Used-2020-Cadillac-XT6-Sport-1GYKPGRS6LZ141229/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-26T01:25:22",
+      "last_verified": "2026-09-27T01:37:04",
       "price": 33497.0,
       "price_currency": "CAD",
       "condition": "used"
@@ -167,7 +178,7 @@
       "url": "https://willyml1979-dotcom.github.io/preston-chevrolet-buick-gmc-cadillac-ltd-mirror/used/e8c4f1e69cf3.html",
       "source_url": "https://www.prestongm.com/inventory/Used-2020-Honda-CR--V-Touring-2HKRW2H97LH208534/",
       "dealer_url": "https://www.prestongm.com/inventory/Used-2020-Honda-CR--V-Touring-2HKRW2H97LH208534/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-26T01:25:29",
+      "last_verified": "2026-09-27T01:37:13",
       "condition": "used"
     },
     {
@@ -178,7 +189,7 @@
       "url": "https://willyml1979-dotcom.github.io/preston-chevrolet-buick-gmc-cadillac-ltd-mirror/used/437d5062a5a3.html",
       "source_url": "https://www.prestongm.com/inventory/Used-2020-Kia-Forte-EX-3KPF54AD8LE211026/",
       "dealer_url": "https://www.prestongm.com/inventory/Used-2020-Kia-Forte-EX-3KPF54AD8LE211026/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-26T01:25:39",
+      "last_verified": "2026-09-27T01:37:29",
       "condition": "used"
     },
     {
@@ -352,6 +363,16 @@
       "condition": "used"
     },
     {
+      "name": "Used2022TeslaModel YAWDLong Range",
+      "vin": "7SAYGDEE6NF359116",
+      "stock": "7200971",
+      "url": "https://willyml1979-dotcom.github.io/preston-chevrolet-buick-gmc-cadillac-ltd-mirror/used/abc879d25e9a.html",
+      "source_url": "https://www.prestongm.com/inventory/Used-2022-Tesla-Model_Y-Long_Range-7SAYGDEE6NF359116/",
+      "dealer_url": "https://www.prestongm.com/inventory/Used-2022-Tesla-Model_Y-Long_Range-7SAYGDEE6NF359116/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-27T01:34:52",
+      "condition": "used"
+    },
+    {
       "name": "Certified Used2022VolkswagenJettaFWDHighline",
       "vin": "3VWGM7BU5NM031418",
       "stock": "7200871",
@@ -397,6 +418,26 @@
       "last_verified": "2026-09-26T01:28:11",
       "price": 43995.0,
       "price_currency": "CAD",
+      "condition": "used"
+    },
+    {
+      "name": "Used2023TeslaModel XAWDStandard Range",
+      "vin": "7SAXCAE59PF378297",
+      "stock": "7201341",
+      "url": "https://willyml1979-dotcom.github.io/preston-chevrolet-buick-gmc-cadillac-ltd-mirror/used/da01b723a769.html",
+      "source_url": "https://www.prestongm.com/inventory/Used-2023-Tesla-Model_X-Standard_Range-7SAXCAE59PF378297/",
+      "dealer_url": "https://www.prestongm.com/inventory/Used-2023-Tesla-Model_X-Standard_Range-7SAXCAE59PF378297/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-27T01:35:02",
+      "condition": "used"
+    },
+    {
+      "name": "Used2023TeslaModel YRWDBASE",
+      "vin": "LRWYGDFD6PC221270",
+      "stock": "7201631",
+      "url": "https://willyml1979-dotcom.github.io/preston-chevrolet-buick-gmc-cadillac-ltd-mirror/used/662f08a86c35.html",
+      "source_url": "https://www.prestongm.com/inventory/Used-2023-Tesla-Model_Y-BASE-LRWYGDFD6PC221270/",
+      "dealer_url": "https://www.prestongm.com/inventory/Used-2023-Tesla-Model_Y-BASE-LRWYGDFD6PC221270/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-27T01:35:08",
       "condition": "used"
     },
     {
