@@ -1,7 +1,7 @@
 {
   "dealership": "Preston Chevrolet Buick Gmc Cadillac Ltd",
-  "generated_at": "2026-10-19T13:38:58",
-  "vehicle_count": 378,
+  "generated_at": "2026-10-20T17:58:19",
+  "vehicle_count": 371,
   "currency": "CAD",
   "note": "Machine-readable inventory feed published by AiOptics. Each vehicle links to its full detail page.",
   "vehicles": [
@@ -2081,13 +2081,39 @@
     },
     {
       "name": "New2026ChevroletSilverado 15004WDCustom",
+      "vin": "1GCPKBEK0TZ410375",
+      "stock": "6219690",
+      "color": "Summit White",
+      "url": "https://willyml1979-dotcom.github.io/preston-chevrolet-buick-gmc-cadillac-ltd-mirror/new/ecd75f8ecf7c.html",
+      "source_url": "https://www.prestongm.com/inventory/New-2026-Chevrolet-Silverado_1500-Custom-1GCPKBEK0TZ410375/",
+      "dealer_url": "https://www.prestongm.com/inventory/New-2026-Chevrolet-Silverado_1500-Custom-1GCPKBEK0TZ410375/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-20T17:54:58",
+      "condition": "new",
+      "city": "Langley",
+      "province": "BC"
+    },
+    {
+      "name": "New2026ChevroletSilverado 15004WDCustom",
+      "vin": "1GCPKBEK1TZ410501",
+      "stock": "6219700",
+      "color": "Summit White",
+      "url": "https://willyml1979-dotcom.github.io/preston-chevrolet-buick-gmc-cadillac-ltd-mirror/new/947d67c5bedc.html",
+      "source_url": "https://www.prestongm.com/inventory/New-2026-Chevrolet-Silverado_1500-Custom-1GCPKBEK1TZ410501/",
+      "dealer_url": "https://www.prestongm.com/inventory/New-2026-Chevrolet-Silverado_1500-Custom-1GCPKBEK1TZ410501/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-20T17:55:09",
+      "condition": "new",
+      "city": "Langley",
+      "province": "BC"
+    },
+    {
+      "name": "New2026ChevroletSilverado 15004WDCustom",
       "vin": "1GCPKBEK2TZ383423",
       "stock": "6216720",
       "color": "Summit White",
       "url": "https://willyml1979-dotcom.github.io/preston-chevrolet-buick-gmc-cadillac-ltd-mirror/new/26e919ffdac5.html",
       "source_url": "https://www.prestongm.com/inventory/New-2026-Chevrolet-Silverado_1500-Custom-1GCPKBEK2TZ383423/",
       "dealer_url": "https://www.prestongm.com/inventory/New-2026-Chevrolet-Silverado_1500-Custom-1GCPKBEK2TZ383423/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-26T04:44:56",
+      "last_verified": "2026-10-20T17:55:50",
       "condition": "new",
       "city": "Langley",
       "province": "BC"
@@ -2100,7 +2126,7 @@
       "url": "https://willyml1979-dotcom.github.io/preston-chevrolet-buick-gmc-cadillac-ltd-mirror/new/bfaa227aa76b.html",
       "source_url": "https://www.prestongm.com/inventory/New-2026-Chevrolet-Silverado_1500-Custom-1GCPKBEK5TZ383304/",
       "dealer_url": "https://www.prestongm.com/inventory/New-2026-Chevrolet-Silverado_1500-Custom-1GCPKBEK5TZ383304/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-26T04:45:04",
+      "last_verified": "2026-10-20T17:56:00",
       "condition": "new",
       "city": "Langley",
       "province": "BC"
@@ -2113,7 +2139,7 @@
       "url": "https://willyml1979-dotcom.github.io/preston-chevrolet-buick-gmc-cadillac-ltd-mirror/new/cd238d502d13.html",
       "source_url": "https://www.prestongm.com/inventory/New-2026-Chevrolet-Silverado_1500-Custom-1GCPKBEK6TZ383327/",
       "dealer_url": "https://www.prestongm.com/inventory/New-2026-Chevrolet-Silverado_1500-Custom-1GCPKBEK6TZ383327/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-26T04:45:13",
+      "last_verified": "2026-10-20T17:56:12",
       "condition": "new",
       "city": "Langley",
       "province": "BC"
@@ -2126,7 +2152,7 @@
       "url": "https://willyml1979-dotcom.github.io/preston-chevrolet-buick-gmc-cadillac-ltd-mirror/new/ab4c06610de9.html",
       "source_url": "https://www.prestongm.com/inventory/New-2026-Chevrolet-Silverado_1500-Custom-1GCPKBEK7TZ383370/",
       "dealer_url": "https://www.prestongm.com/inventory/New-2026-Chevrolet-Silverado_1500-Custom-1GCPKBEK7TZ383370/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-26T04:45:24",
+      "last_verified": "2026-10-20T17:56:21",
       "condition": "new",
       "city": "Langley",
       "province": "BC"
@@ -2139,7 +2165,7 @@
       "url": "https://willyml1979-dotcom.github.io/preston-chevrolet-buick-gmc-cadillac-ltd-mirror/new/8ca9c78bfca4.html",
       "source_url": "https://www.prestongm.com/inventory/New-2026-Chevrolet-Silverado_1500-Custom-1GCPKBEK8TZ409961/",
       "dealer_url": "https://www.prestongm.com/inventory/New-2026-Chevrolet-Silverado_1500-Custom-1GCPKBEK8TZ409961/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-26T04:45:33",
+      "last_verified": "2026-10-20T17:56:31",
       "condition": "new",
       "city": "Langley",
       "province": "BC"
@@ -2152,7 +2178,7 @@
       "url": "https://willyml1979-dotcom.github.io/preston-chevrolet-buick-gmc-cadillac-ltd-mirror/new/6c3ed0d79af4.html",
       "source_url": "https://www.prestongm.com/inventory/New-2026-Chevrolet-Silverado_1500-Custom-1GCPKBEK9TZ410018/",
       "dealer_url": "https://www.prestongm.com/inventory/New-2026-Chevrolet-Silverado_1500-Custom-1GCPKBEK9TZ410018/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-26T04:45:42",
+      "last_verified": "2026-10-20T17:56:40",
       "condition": "new",
       "city": "Langley",
       "province": "BC"
@@ -2165,7 +2191,7 @@
       "url": "https://willyml1979-dotcom.github.io/preston-chevrolet-buick-gmc-cadillac-ltd-mirror/new/2388b431f946.html",
       "source_url": "https://www.prestongm.com/inventory/New-2026-Chevrolet-Silverado_1500-Custom-1GCRKBEK2TZ295061/",
       "dealer_url": "https://www.prestongm.com/inventory/New-2026-Chevrolet-Silverado_1500-Custom-1GCRKBEK2TZ295061/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-26T04:45:53",
+      "last_verified": "2026-10-20T17:56:52",
       "condition": "new",
       "city": "Langley",
       "province": "BC"
@@ -2191,7 +2217,7 @@
       "url": "https://willyml1979-dotcom.github.io/preston-chevrolet-buick-gmc-cadillac-ltd-mirror/new/b1dbff680ac5.html",
       "source_url": "https://www.prestongm.com/inventory/New-2026-Chevrolet-Silverado_1500-Custom-3GCPKBEK4TG488870/",
       "dealer_url": "https://www.prestongm.com/inventory/New-2026-Chevrolet-Silverado_1500-Custom-3GCPKBEK4TG488870/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-26T04:46:05",
+      "last_verified": "2026-10-20T17:57:02",
       "condition": "new",
       "city": "Langley",
       "province": "BC"
@@ -2204,7 +2230,7 @@
       "url": "https://willyml1979-dotcom.github.io/preston-chevrolet-buick-gmc-cadillac-ltd-mirror/new/ee994e74e2a7.html",
       "source_url": "https://www.prestongm.com/inventory/New-2026-Chevrolet-Silverado_1500-Custom-3GCPKBEK4TG488884/",
       "dealer_url": "https://www.prestongm.com/inventory/New-2026-Chevrolet-Silverado_1500-Custom-3GCPKBEK4TG488884/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-26T04:46:13",
+      "last_verified": "2026-10-20T17:57:14",
       "condition": "new",
       "city": "Langley",
       "province": "BC"
@@ -2217,7 +2243,7 @@
       "url": "https://willyml1979-dotcom.github.io/preston-chevrolet-buick-gmc-cadillac-ltd-mirror/new/b994c2f89f29.html",
       "source_url": "https://www.prestongm.com/inventory/New-2026-Chevrolet-Silverado_1500-Custom-3GCPKBEK6TG489194/",
       "dealer_url": "https://www.prestongm.com/inventory/New-2026-Chevrolet-Silverado_1500-Custom-3GCPKBEK6TG489194/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-26T04:46:24",
+      "last_verified": "2026-10-20T17:57:24",
       "condition": "new",
       "city": "Langley",
       "province": "BC"
@@ -2230,7 +2256,7 @@
       "url": "https://willyml1979-dotcom.github.io/preston-chevrolet-buick-gmc-cadillac-ltd-mirror/new/e26e8e063a82.html",
       "source_url": "https://www.prestongm.com/inventory/New-2026-Chevrolet-Silverado_1500-Custom-3GCPKBEK9TG489206/",
       "dealer_url": "https://www.prestongm.com/inventory/New-2026-Chevrolet-Silverado_1500-Custom-3GCPKBEK9TG489206/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-26T04:46:33",
+      "last_verified": "2026-10-20T17:57:33",
       "condition": "new",
       "city": "Langley",
       "province": "BC"
@@ -2243,7 +2269,7 @@
       "url": "https://willyml1979-dotcom.github.io/preston-chevrolet-buick-gmc-cadillac-ltd-mirror/new/ab0407e6bffc.html",
       "source_url": "https://www.prestongm.com/inventory/New-2026-Chevrolet-Silverado_1500-Custom_Trail_Boss-3GCUKCE84TG463500/",
       "dealer_url": "https://www.prestongm.com/inventory/New-2026-Chevrolet-Silverado_1500-Custom_Trail_Boss-3GCUKCE84TG463500/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-26T04:46:54",
+      "last_verified": "2026-10-20T17:57:42",
       "condition": "new",
       "city": "Langley",
       "province": "BC"
@@ -2256,7 +2282,7 @@
       "url": "https://willyml1979-dotcom.github.io/preston-chevrolet-buick-gmc-cadillac-ltd-mirror/new/70ba363f8a63.html",
       "source_url": "https://www.prestongm.com/inventory/New-2026-Chevrolet-Silverado_1500-Custom_Trail_Boss-3GCUKCE84TG463528/",
       "dealer_url": "https://www.prestongm.com/inventory/New-2026-Chevrolet-Silverado_1500-Custom_Trail_Boss-3GCUKCE84TG463528/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-26T04:47:02",
+      "last_verified": "2026-10-20T17:57:52",
       "condition": "new",
       "city": "Langley",
       "province": "BC"
@@ -2269,7 +2295,7 @@
       "url": "https://willyml1979-dotcom.github.io/preston-chevrolet-buick-gmc-cadillac-ltd-mirror/new/ecc6aaa56b85.html",
       "source_url": "https://www.prestongm.com/inventory/New-2026-Chevrolet-Silverado_1500-Custom_Trail_Boss-3GCUKCE84TG463612/",
       "dealer_url": "https://www.prestongm.com/inventory/New-2026-Chevrolet-Silverado_1500-Custom_Trail_Boss-3GCUKCE84TG463612/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-26T04:47:11",
+      "last_verified": "2026-10-20T17:58:02",
       "condition": "new",
       "city": "Langley",
       "province": "BC"
@@ -2282,7 +2308,7 @@
       "url": "https://willyml1979-dotcom.github.io/preston-chevrolet-buick-gmc-cadillac-ltd-mirror/new/ccd5fc853e4b.html",
       "source_url": "https://www.prestongm.com/inventory/New-2026-Chevrolet-Silverado_1500-Custom_Trail_Boss-3GCUKCED1TG193543/",
       "dealer_url": "https://www.prestongm.com/inventory/New-2026-Chevrolet-Silverado_1500-Custom_Trail_Boss-3GCUKCED1TG193543/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-26T04:47:21",
+      "last_verified": "2026-10-20T17:58:14",
       "condition": "new",
       "city": "Langley",
       "province": "BC"
@@ -2353,19 +2379,6 @@
       "province": "BC"
     },
     {
-      "name": "New2026ChevroletSilverado 15004WDLTZ",
-      "vin": "3GCUKGED4TG216837",
-      "stock": "6206570",
-      "color": "Summit White",
-      "url": "https://willyml1979-dotcom.github.io/preston-chevrolet-buick-gmc-cadillac-ltd-mirror/new/35a3f1e4d1aa.html",
-      "source_url": "https://www.prestongm.com/inventory/New-2026-Chevrolet-Silverado_1500-LTZ-3GCUKGED4TG216837/",
-      "dealer_url": "https://www.prestongm.com/inventory/New-2026-Chevrolet-Silverado_1500-LTZ-3GCUKGED4TG216837/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-26T04:48:29",
-      "condition": "new",
-      "city": "Langley",
-      "province": "BC"
-    },
-    {
       "name": "New2026ChevroletSilverado 15004WDLT Trail Boss",
       "vin": "3GCUKFE87TG383111",
       "stock": "6216980",
@@ -2400,19 +2413,6 @@
       "source_url": "https://www.prestongm.com/inventory/New-2026-Chevrolet-Silverado_1500-LT_Trail_Boss-3GCUKFED9TG333968/",
       "dealer_url": "https://www.prestongm.com/inventory/New-2026-Chevrolet-Silverado_1500-LT_Trail_Boss-3GCUKFED9TG333968/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-16T18:43:04",
-      "condition": "new",
-      "city": "Langley",
-      "province": "BC"
-    },
-    {
-      "name": "New2026ChevroletSilverado 15004WDLT Trail Boss",
-      "vin": "3GCUKFED9TG381454",
-      "stock": "6216610",
-      "color": "Black",
-      "url": "https://willyml1979-dotcom.github.io/preston-chevrolet-buick-gmc-cadillac-ltd-mirror/new/51ff9510213a.html",
-      "source_url": "https://www.prestongm.com/inventory/New-2026-Chevrolet-Silverado_1500-LT_Trail_Boss-3GCUKFED9TG381454/",
-      "dealer_url": "https://www.prestongm.com/inventory/New-2026-Chevrolet-Silverado_1500-LT_Trail_Boss-3GCUKFED9TG381454/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-26T04:49:14",
       "condition": "new",
       "city": "Langley",
       "province": "BC"
@@ -2946,32 +2946,6 @@
       "source_url": "https://www.prestongm.com/inventory/New-2026-Chevrolet-Tahoe-Z71-1GNS6PK84TR327642/",
       "dealer_url": "https://www.prestongm.com/inventory/New-2026-Chevrolet-Tahoe-Z71-1GNS6PK84TR327642/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-16T18:43:45",
-      "condition": "new",
-      "city": "Langley",
-      "province": "BC"
-    },
-    {
-      "name": "New2026ChevroletTahoe4WDZ71",
-      "vin": "1GNS6PKD8TR302417",
-      "stock": "6211700",
-      "color": "Cypress Grey",
-      "url": "https://willyml1979-dotcom.github.io/preston-chevrolet-buick-gmc-cadillac-ltd-mirror/new/a2455565a750.html",
-      "source_url": "https://www.prestongm.com/inventory/New-2026-Chevrolet-Tahoe-Z71-1GNS6PKD8TR302417/",
-      "dealer_url": "https://www.prestongm.com/inventory/New-2026-Chevrolet-Tahoe-Z71-1GNS6PKD8TR302417/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-26T04:56:13",
-      "condition": "new",
-      "city": "Langley",
-      "province": "BC"
-    },
-    {
-      "name": "New2026ChevroletTrailblazerAWDLT",
-      "vin": "KL79MRSL0TB253770",
-      "stock": "6219870",
-      "color": "Sterling Grey Metallic",
-      "url": "https://willyml1979-dotcom.github.io/preston-chevrolet-buick-gmc-cadillac-ltd-mirror/new/0c2a2b0e8160.html",
-      "source_url": "https://www.prestongm.com/inventory/New-2026-Chevrolet-Trailblazer-LT-KL79MRSL0TB253770/",
-      "dealer_url": "https://www.prestongm.com/inventory/New-2026-Chevrolet-Trailblazer-LT-KL79MRSL0TB253770/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-26T04:56:24",
       "condition": "new",
       "city": "Langley",
       "province": "BC"
@@ -3692,19 +3666,6 @@
       "province": "BC"
     },
     {
-      "name": "New2026GMCSierra 15004WDDenali",
-      "vin": "3GTUUGEL7TG240096",
-      "stock": "6208470",
-      "color": "GBA Onyx Black",
-      "url": "https://willyml1979-dotcom.github.io/preston-chevrolet-buick-gmc-cadillac-ltd-mirror/new/3c2e5ac5ea9e.html",
-      "source_url": "https://www.prestongm.com/inventory/New-2026-GMC-Sierra_1500-Denali-3GTUUGEL7TG240096/",
-      "dealer_url": "https://www.prestongm.com/inventory/New-2026-GMC-Sierra_1500-Denali-3GTUUGEL7TG240096/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-26T05:05:43",
-      "condition": "new",
-      "city": "Langley",
-      "province": "BC"
-    },
-    {
       "name": "New2026GMCSierra 15004WDElevation",
       "vin": "1GTUUCED1TZ452798",
       "stock": "6220570",
@@ -3739,6 +3700,19 @@
       "source_url": "https://www.prestongm.com/inventory/New-2026-GMC-Sierra_1500-Elevation-1GTUUCED5TZ417732/",
       "dealer_url": "https://www.prestongm.com/inventory/New-2026-GMC-Sierra_1500-Elevation-1GTUUCED5TZ417732/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-26T05:06:22",
+      "condition": "new",
+      "city": "Langley",
+      "province": "BC"
+    },
+    {
+      "name": "New2026GMCSierra 15004WDElevation",
+      "vin": "3GTUUCED4TG395237",
+      "stock": "6222150",
+      "color": "Sterling Metallic",
+      "url": "https://willyml1979-dotcom.github.io/preston-chevrolet-buick-gmc-cadillac-ltd-mirror/new/ed128696a4fc.html",
+      "source_url": "https://www.prestongm.com/inventory/New-2026-GMC-Sierra_1500-Elevation-3GTUUCED4TG395237/",
+      "dealer_url": "https://www.prestongm.com/inventory/New-2026-GMC-Sierra_1500-Elevation-3GTUUCED4TG395237/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-20T17:55:19",
       "condition": "new",
       "city": "Langley",
       "province": "BC"
@@ -3952,6 +3926,19 @@
       "province": "BC"
     },
     {
+      "name": "New2026GMCSierra 15004WDSLT",
+      "vin": "3GTUUDED1TG349600",
+      "stock": "6222160",
+      "color": "Glacier White Tricoat",
+      "url": "https://willyml1979-dotcom.github.io/preston-chevrolet-buick-gmc-cadillac-ltd-mirror/new/e9c715fa56de.html",
+      "source_url": "https://www.prestongm.com/inventory/New-2026-GMC-Sierra_1500-SLT-3GTUUDED1TG349600/",
+      "dealer_url": "https://www.prestongm.com/inventory/New-2026-GMC-Sierra_1500-SLT-3GTUUDED1TG349600/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-20T17:55:30",
+      "condition": "new",
+      "city": "Langley",
+      "province": "BC"
+    },
+    {
       "name": "New2026GMCSierra 2500HD4WDPro",
       "vin": "1GD3ULE76TF134551",
       "stock": "6202120",
@@ -4155,6 +4142,19 @@
       "source_url": "https://www.prestongm.com/inventory/New-2026-GMC-Sierra_3500HD-Denali_Ultimate-1GT4UYEY8TF151415/",
       "dealer_url": "https://www.prestongm.com/inventory/New-2026-GMC-Sierra_3500HD-Denali_Ultimate-1GT4UYEY8TF151415/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-26T05:10:43",
+      "condition": "new",
+      "city": "Langley",
+      "province": "BC"
+    },
+    {
+      "name": "New2026GMCSierra 3500HD4WDDenali Ultimate",
+      "vin": "1GT4UYEY9TF350103",
+      "stock": "6220870",
+      "color": "GBA Onyx Black",
+      "url": "https://willyml1979-dotcom.github.io/preston-chevrolet-buick-gmc-cadillac-ltd-mirror/new/aada5bcdd91c.html",
+      "source_url": "https://www.prestongm.com/inventory/New-2026-GMC-Sierra_3500HD-Denali_Ultimate-1GT4UYEY9TF350103/",
+      "dealer_url": "https://www.prestongm.com/inventory/New-2026-GMC-Sierra_3500HD-Denali_Ultimate-1GT4UYEY9TF350103/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-20T17:55:40",
       "condition": "new",
       "city": "Langley",
       "province": "BC"
@@ -4538,19 +4538,6 @@
     },
     {
       "name": "New2026GMCYukon XL4WDDenali",
-      "vin": "1GKS2JKLXTR269403",
-      "stock": "6210220",
-      "color": "Glacier White Tricoat",
-      "url": "https://willyml1979-dotcom.github.io/preston-chevrolet-buick-gmc-cadillac-ltd-mirror/new/449b4c1e3bd9.html",
-      "source_url": "https://www.prestongm.com/inventory/New-2026-GMC-Yukon_XL-Denali-1GKS2JKLXTR269403/",
-      "dealer_url": "https://www.prestongm.com/inventory/New-2026-GMC-Yukon_XL-Denali-1GKS2JKLXTR269403/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-26T05:15:45",
-      "condition": "new",
-      "city": "Langley",
-      "province": "BC"
-    },
-    {
-      "name": "New2026GMCYukon XL4WDDenali",
       "vin": "1GKS2JKLXTR419431",
       "stock": "6220270",
       "color": "Onyx Black",
@@ -4655,32 +4642,6 @@
     },
     {
       "name": "New2027ChevroletBoltFWDLT",
-      "vin": "1G1FY6EV3VF120835",
-      "stock": "7200980",
-      "color": "Mosaic Black Metallic",
-      "url": "https://willyml1979-dotcom.github.io/preston-chevrolet-buick-gmc-cadillac-ltd-mirror/new/eea376baa78d.html",
-      "source_url": "https://www.prestongm.com/inventory/New-2027-Chevrolet-Bolt-LT-1G1FY6EV3VF120835/",
-      "dealer_url": "https://www.prestongm.com/inventory/New-2027-Chevrolet-Bolt-LT-1G1FY6EV3VF120835/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-26T05:18:18",
-      "condition": "new",
-      "city": "Langley",
-      "province": "BC"
-    },
-    {
-      "name": "New2027ChevroletBoltFWDLT",
-      "vin": "1G1FY6EV7VF120840",
-      "stock": "7201020",
-      "color": "Mosaic Black Metallic",
-      "url": "https://willyml1979-dotcom.github.io/preston-chevrolet-buick-gmc-cadillac-ltd-mirror/new/8a4545e3db0a.html",
-      "source_url": "https://www.prestongm.com/inventory/New-2027-Chevrolet-Bolt-LT-1G1FY6EV7VF120840/",
-      "dealer_url": "https://www.prestongm.com/inventory/New-2027-Chevrolet-Bolt-LT-1G1FY6EV7VF120840/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-26T05:19:10",
-      "condition": "new",
-      "city": "Langley",
-      "province": "BC"
-    },
-    {
-      "name": "New2027ChevroletBoltFWDLT",
       "vin": "1G1FY6EV8VF109636",
       "stock": "7200320",
       "color": "Sterling Grey Metallic",
@@ -4701,19 +4662,6 @@
       "source_url": "https://www.prestongm.com/inventory/New-2027-Chevrolet-Bolt-LT-1G1FY6EV8VF119891/",
       "dealer_url": "https://www.prestongm.com/inventory/New-2027-Chevrolet-Bolt-LT-1G1FY6EV8VF119891/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-26T05:19:46",
-      "condition": "new",
-      "city": "Langley",
-      "province": "BC"
-    },
-    {
-      "name": "New2027ChevroletBoltFWDLT",
-      "vin": "1G1FY6EV9VF120841",
-      "stock": "7201030",
-      "color": "Mosaic Black Metallic",
-      "url": "https://willyml1979-dotcom.github.io/preston-chevrolet-buick-gmc-cadillac-ltd-mirror/new/9e50a4bec732.html",
-      "source_url": "https://www.prestongm.com/inventory/New-2027-Chevrolet-Bolt-LT-1G1FY6EV9VF120841/",
-      "dealer_url": "https://www.prestongm.com/inventory/New-2027-Chevrolet-Bolt-LT-1G1FY6EV9VF120841/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-26T05:20:06",
       "condition": "new",
       "city": "Langley",
       "province": "BC"
@@ -4824,19 +4772,6 @@
     },
     {
       "name": "New2027ChevroletEquinox EVFWDLT1 w/PCY",
-      "vin": "3GN7DMRP3VS108808",
-      "stock": "7202420",
-      "color": "Summit White",
-      "url": "https://willyml1979-dotcom.github.io/preston-chevrolet-buick-gmc-cadillac-ltd-mirror/new/81b42f5e572f.html",
-      "source_url": "https://www.prestongm.com/inventory/New-2027-Chevrolet-Equinox_EV-LT1_w%2FPCY-3GN7DMRP3VS108808/",
-      "dealer_url": "https://www.prestongm.com/inventory/New-2027-Chevrolet-Equinox_EV-LT1_w%2FPCY-3GN7DMRP3VS108808/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-16T18:46:07",
-      "condition": "new",
-      "city": "Langley",
-      "province": "BC"
-    },
-    {
-      "name": "New2027ChevroletEquinox EVFWDLT1 w/PCY",
       "vin": "3GN7DMRP3VS111367",
       "stock": "7202140",
       "color": "Black",
@@ -4870,19 +4805,6 @@
       "source_url": "https://www.prestongm.com/inventory/New-2027-Chevrolet-Equinox_EV-LT1_w%2FPCY-3GN7DMRRXVS107673/",
       "dealer_url": "https://www.prestongm.com/inventory/New-2027-Chevrolet-Equinox_EV-LT1_w%2FPCY-3GN7DMRRXVS107673/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-26T05:23:02",
-      "condition": "new",
-      "city": "Langley",
-      "province": "BC"
-    },
-    {
-      "name": "New2027ChevroletEquinox EVAWDLT1 w/PCY",
-      "vin": "3GN7DMRRXVS107690",
-      "stock": "7201380",
-      "color": "Sterling Grey Metallic",
-      "url": "https://willyml1979-dotcom.github.io/preston-chevrolet-buick-gmc-cadillac-ltd-mirror/new/b8e6b2e146e2.html",
-      "source_url": "https://www.prestongm.com/inventory/New-2027-Chevrolet-Equinox_EV-LT1_w%2FPCY-3GN7DMRRXVS107690/",
-      "dealer_url": "https://www.prestongm.com/inventory/New-2027-Chevrolet-Equinox_EV-LT1_w%2FPCY-3GN7DMRRXVS107690/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-26T05:23:13",
       "condition": "new",
       "city": "Langley",
       "province": "BC"
@@ -4987,19 +4909,6 @@
       "source_url": "https://www.prestongm.com/inventory/New-2027-Chevrolet-Traverse-Z71-1GNEVJKS5VJ158967/",
       "dealer_url": "https://www.prestongm.com/inventory/New-2027-Chevrolet-Traverse-Z71-1GNEVJKS5VJ158967/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-26T05:24:33",
-      "condition": "new",
-      "city": "Langley",
-      "province": "BC"
-    },
-    {
-      "name": "New2027ChevroletTraverseAWDZ71",
-      "vin": "1GNEVJKS8VJ153911",
-      "stock": "7201940",
-      "color": "Sandstone Grey",
-      "url": "https://willyml1979-dotcom.github.io/preston-chevrolet-buick-gmc-cadillac-ltd-mirror/new/58822ee8e10d.html",
-      "source_url": "https://www.prestongm.com/inventory/New-2027-Chevrolet-Traverse-Z71-1GNEVJKS8VJ153911/",
-      "dealer_url": "https://www.prestongm.com/inventory/New-2027-Chevrolet-Traverse-Z71-1GNEVJKS8VJ153911/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-26T05:24:43",
       "condition": "new",
       "city": "Langley",
       "province": "BC"
