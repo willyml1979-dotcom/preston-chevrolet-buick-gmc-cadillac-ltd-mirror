@@ -1,7 +1,7 @@
 {
   "dealership": "Preston Chevrolet Buick Gmc Cadillac Ltd",
-  "generated_at": "2026-10-25T14:18:43",
-  "vehicle_count": 372,
+  "generated_at": "2026-10-25T15:35:42",
+  "vehicle_count": 371,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -147,14 +147,6 @@
       "url": "https://willyml1979-dotcom.github.io/preston-chevrolet-buick-gmc-cadillac-ltd-mirror/used/771b49467eca.html",
       "condition": "used",
       "price": 50694.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "Certified Used2021CadillacCT5AWDSport",
-      "vin": "1G6DU5RK5M0109327",
-      "url": "https://willyml1979-dotcom.github.io/preston-chevrolet-buick-gmc-cadillac-ltd-mirror/used/e141e4c59bff.html",
-      "condition": "used",
-      "price": 37694.0,
       "price_currency": "CAD"
     },
     {
@@ -382,7 +374,7 @@
       "vin": "7SAXCAE59PF378297",
       "url": "https://willyml1979-dotcom.github.io/preston-chevrolet-buick-gmc-cadillac-ltd-mirror/used/da01b723a769.html",
       "condition": "used",
-      "price": 80694.0,
+      "price": 78622.0,
       "price_currency": "CAD"
     },
     {
@@ -676,7 +668,7 @@
       "vin": "YV4L12UM5S2455305",
       "url": "https://willyml1979-dotcom.github.io/preston-chevrolet-buick-gmc-cadillac-ltd-mirror/used/5d8e0f33e4d7.html",
       "condition": "used",
-      "price": 47694.0,
+      "price": 45686.0,
       "price_currency": "CAD"
     },
     {
@@ -692,7 +684,7 @@
       "vin": "3GNAXTEG3TL202501",
       "url": "https://willyml1979-dotcom.github.io/preston-chevrolet-buick-gmc-cadillac-ltd-mirror/used/abbc9ff6cf45.html",
       "condition": "used",
-      "price": 40694.0,
+      "price": 38518.0,
       "price_currency": "CAD"
     },
     {
@@ -700,7 +692,7 @@
       "vin": "3GNAXTEG9TL168368",
       "url": "https://willyml1979-dotcom.github.io/preston-chevrolet-buick-gmc-cadillac-ltd-mirror/used/825c00397688.html",
       "condition": "used",
-      "price": 40694.0,
+      "price": 38602.0,
       "price_currency": "CAD"
     },
     {
@@ -708,7 +700,7 @@
       "vin": "W1N4N4HBXTJ764865",
       "url": "https://willyml1979-dotcom.github.io/preston-chevrolet-buick-gmc-cadillac-ltd-mirror/used/8c6143de3400.html",
       "condition": "used",
-      "price": 46196.0,
+      "price": 43114.0,
       "price_currency": "CAD"
     },
     {
@@ -716,7 +708,7 @@
       "vin": "JN8BT3BB9TW373351",
       "url": "https://willyml1979-dotcom.github.io/preston-chevrolet-buick-gmc-cadillac-ltd-mirror/used/e1628fa68ec1.html",
       "condition": "used",
-      "price": 31694.0,
+      "price": 30694.0,
       "price_currency": "CAD"
     },
     {
