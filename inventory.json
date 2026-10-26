@@ -1,6 +1,6 @@
 {
   "dealership": "Preston Chevrolet Buick Gmc Cadillac Ltd",
-  "generated_at": "2026-10-25T23:57:54",
+  "generated_at": "2026-10-26T01:04:25",
   "vehicle_count": 371,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
@@ -90,7 +90,7 @@
       "vin": "WDDUG8GB8KA453448",
       "url": "https://willyml1979-dotcom.github.io/preston-chevrolet-buick-gmc-cadillac-ltd-mirror/used/01ad68749d6c.html",
       "condition": "used",
-      "price": 56694.0,
+      "price": 55199.0,
       "price_currency": "CAD"
     },
     {
@@ -114,7 +114,7 @@
       "vin": "1GYKPGRS6LZ141229",
       "url": "https://willyml1979-dotcom.github.io/preston-chevrolet-buick-gmc-cadillac-ltd-mirror/used/d1a10a512aad.html",
       "condition": "used",
-      "price": 33696.0,
+      "price": 33199.0,
       "price_currency": "CAD"
     },
     {
@@ -130,7 +130,7 @@
       "vin": "2HKRW2H97LH208534",
       "url": "https://willyml1979-dotcom.github.io/preston-chevrolet-buick-gmc-cadillac-ltd-mirror/used/e8c4f1e69cf3.html",
       "condition": "used",
-      "price": 29194.0,
+      "price": 28694.0,
       "price_currency": "CAD"
     },
     {
@@ -308,10 +308,12 @@
       "price_currency": "CAD"
     },
     {
-      "name": "Used2023BMWX5AWDxDrive40i",
+      "name": "Certified Used2023BMWX5AWDxDrive40i",
       "vin": "5UXCR6C04P9P01307",
       "url": "https://willyml1979-dotcom.github.io/preston-chevrolet-buick-gmc-cadillac-ltd-mirror/used/c8f303d31cf5.html",
-      "condition": "used"
+      "condition": "used",
+      "price": 56694.0,
+      "price_currency": "CAD"
     },
     {
       "name": "Certified Used2023CadillacXT4AWDAWD Premium Luxury",
