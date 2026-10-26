@@ -1,6 +1,6 @@
 {
   "dealership": "Preston Chevrolet Buick Gmc Cadillac Ltd",
-  "generated_at": "2026-10-26T08:33:05",
+  "generated_at": "2026-10-26T09:31:10",
   "vehicle_count": 371,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
@@ -158,10 +158,12 @@
       "price_currency": "CAD"
     },
     {
-      "name": "Used2021JeepWrangler4WDUnlimited Rubicon",
+      "name": "Certified Used2021JeepWrangler4WDUnlimited Rubicon",
       "vin": "1C4HJXFN0MW740579",
       "url": "https://willyml1979-dotcom.github.io/preston-chevrolet-buick-gmc-cadillac-ltd-mirror/used/da666f533a70.html",
-      "condition": "used"
+      "condition": "used",
+      "price": 40694.0,
+      "price_currency": "CAD"
     },
     {
       "name": "Certified Used2021JeepWrangler 4xe4WDUnlimited Rubicon",
