@@ -1,7 +1,7 @@
 {
   "dealership": "Preston Chevrolet Buick Gmc Cadillac Ltd",
-  "generated_at": "2026-10-26T09:31:10",
-  "vehicle_count": 371,
+  "generated_at": "2026-11-17T10:20:57",
+  "vehicle_count": 363,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -819,20 +819,8 @@
     },
     {
       "name": "New2026BuickEnvisionAWDPreferred",
-      "vin": "LRBFZMR42TD091491",
-      "url": "https://willyml1979-dotcom.github.io/preston-chevrolet-buick-gmc-cadillac-ltd-mirror/new/1a0955f40061.html",
-      "condition": "new"
-    },
-    {
-      "name": "New2026BuickEnvisionAWDPreferred",
       "vin": "LRBFZMR49TD091293",
       "url": "https://willyml1979-dotcom.github.io/preston-chevrolet-buick-gmc-cadillac-ltd-mirror/new/40e72dd0744e.html",
-      "condition": "new"
-    },
-    {
-      "name": "New2026BuickEnvisionAWDSport Touring",
-      "vin": "LRBFZPR42TD091704",
-      "url": "https://willyml1979-dotcom.github.io/preston-chevrolet-buick-gmc-cadillac-ltd-mirror/new/ff6cd501b99e.html",
       "condition": "new"
     },
     {
@@ -939,12 +927,6 @@
     },
     {
       "name": "New2026ChevroletColorado4WD4WD Trail Boss",
-      "vin": "1GCPTEEKXT1249353",
-      "url": "https://willyml1979-dotcom.github.io/preston-chevrolet-buick-gmc-cadillac-ltd-mirror/new/739f0094dd93.html",
-      "condition": "new"
-    },
-    {
-      "name": "New2026ChevroletColorado4WD4WD Trail Boss",
       "vin": "1GCPTEEKXT1259526",
       "url": "https://willyml1979-dotcom.github.io/preston-chevrolet-buick-gmc-cadillac-ltd-mirror/new/4a38d257ca37.html",
       "condition": "new"
@@ -986,12 +968,6 @@
       "condition": "new"
     },
     {
-      "name": "New2026ChevroletCorvetteRWD2LT",
-      "vin": "1G1YB2D49T5104797",
-      "url": "https://willyml1979-dotcom.github.io/preston-chevrolet-buick-gmc-cadillac-ltd-mirror/new/2fc0719c74d7.html",
-      "condition": "new"
-    },
-    {
       "name": "New2026ChevroletCorvetteRWD2LZ",
       "vin": "1G1YE3D38T5602722",
       "url": "https://willyml1979-dotcom.github.io/preston-chevrolet-buick-gmc-cadillac-ltd-mirror/new/fe0bc95670f9.html",
@@ -1017,12 +993,6 @@
     },
     {
       "name": "New2026ChevroletEquinox EVFWDLT",
-      "vin": "3GN7DLRP3TS194645",
-      "url": "https://willyml1979-dotcom.github.io/preston-chevrolet-buick-gmc-cadillac-ltd-mirror/new/8228609e4b17.html",
-      "condition": "new"
-    },
-    {
-      "name": "New2026ChevroletEquinox EVFWDLT",
       "vin": "3GN7DLRR4TS185129",
       "url": "https://willyml1979-dotcom.github.io/preston-chevrolet-buick-gmc-cadillac-ltd-mirror/new/454bdbe8d592.html",
       "condition": "new"
@@ -1031,24 +1001,6 @@
       "name": "New2026ChevroletEquinox EVFWDLT",
       "vin": "3GN7DLRR8TS191368",
       "url": "https://willyml1979-dotcom.github.io/preston-chevrolet-buick-gmc-cadillac-ltd-mirror/new/abaea42f37ac.html",
-      "condition": "new"
-    },
-    {
-      "name": "New2026ChevroletEquinox EVFWDRS",
-      "vin": "3GN7DSRP1TS194668",
-      "url": "https://willyml1979-dotcom.github.io/preston-chevrolet-buick-gmc-cadillac-ltd-mirror/new/ee292ca63dcc.html",
-      "condition": "new"
-    },
-    {
-      "name": "New2026ChevroletEquinox EVFWDRS",
-      "vin": "3GN7DSRP4TS194597",
-      "url": "https://willyml1979-dotcom.github.io/preston-chevrolet-buick-gmc-cadillac-ltd-mirror/new/18a73e39006d.html",
-      "condition": "new"
-    },
-    {
-      "name": "New2026ChevroletEquinox EVFWDRS",
-      "vin": "3GN7DSRP6TS194620",
-      "url": "https://willyml1979-dotcom.github.io/preston-chevrolet-buick-gmc-cadillac-ltd-mirror/new/243fb46b7c47.html",
       "condition": "new"
     },
     {
@@ -1071,20 +1023,8 @@
     },
     {
       "name": "New2026ChevroletSilverado 15004WDCustom",
-      "vin": "1GCPKBEK1TZ410501",
-      "url": "https://willyml1979-dotcom.github.io/preston-chevrolet-buick-gmc-cadillac-ltd-mirror/new/947d67c5bedc.html",
-      "condition": "new"
-    },
-    {
-      "name": "New2026ChevroletSilverado 15004WDCustom",
       "vin": "1GCPKBEK2TZ383423",
       "url": "https://willyml1979-dotcom.github.io/preston-chevrolet-buick-gmc-cadillac-ltd-mirror/new/26e919ffdac5.html",
-      "condition": "new"
-    },
-    {
-      "name": "New2026ChevroletSilverado 15004WDCustom",
-      "vin": "1GCPKBEK5TZ383304",
-      "url": "https://willyml1979-dotcom.github.io/preston-chevrolet-buick-gmc-cadillac-ltd-mirror/new/bfaa227aa76b.html",
       "condition": "new"
     },
     {
@@ -1097,12 +1037,6 @@
       "name": "New2026ChevroletSilverado 15004WDCustom",
       "vin": "1GCPKBEK7TZ383370",
       "url": "https://willyml1979-dotcom.github.io/preston-chevrolet-buick-gmc-cadillac-ltd-mirror/new/ab4c06610de9.html",
-      "condition": "new"
-    },
-    {
-      "name": "New2026ChevroletSilverado 15004WDCustom",
-      "vin": "1GCPKBEK8TZ409961",
-      "url": "https://willyml1979-dotcom.github.io/preston-chevrolet-buick-gmc-cadillac-ltd-mirror/new/8ca9c78bfca4.html",
       "condition": "new"
     },
     {
@@ -1179,6 +1113,12 @@
     },
     {
       "name": "New2026ChevroletSilverado 15004WDLT",
+      "vin": "3GCUKDE81TG484097",
+      "url": "https://willyml1979-dotcom.github.io/preston-chevrolet-buick-gmc-cadillac-ltd-mirror/new/ff745cab9582.html",
+      "condition": "new"
+    },
+    {
+      "name": "New2026ChevroletSilverado 15004WDLT",
       "vin": "3GCUKDE8XTG484079",
       "url": "https://willyml1979-dotcom.github.io/preston-chevrolet-buick-gmc-cadillac-ltd-mirror/new/b58e50ab1e44.html",
       "condition": "new"
@@ -1187,24 +1127,6 @@
       "name": "New2026ChevroletSilverado 15004WDLT",
       "vin": "3GCUKDED2TG132160",
       "url": "https://willyml1979-dotcom.github.io/preston-chevrolet-buick-gmc-cadillac-ltd-mirror/new/5e995e178b58.html",
-      "condition": "new"
-    },
-    {
-      "name": "New2026ChevroletSilverado 15004WDLT",
-      "vin": "3GCUKDED2TG518531",
-      "url": "https://willyml1979-dotcom.github.io/preston-chevrolet-buick-gmc-cadillac-ltd-mirror/new/18371a09bab8.html",
-      "condition": "new"
-    },
-    {
-      "name": "New2026ChevroletSilverado 15004WDLT",
-      "vin": "3GCUKDED8TG518498",
-      "url": "https://willyml1979-dotcom.github.io/preston-chevrolet-buick-gmc-cadillac-ltd-mirror/new/ab44206c05ef.html",
-      "condition": "new"
-    },
-    {
-      "name": "New2026ChevroletSilverado 15004WDLT Trail Boss",
-      "vin": "3GCUKFE87TG383111",
-      "url": "https://willyml1979-dotcom.github.io/preston-chevrolet-buick-gmc-cadillac-ltd-mirror/new/8c1e38b42abe.html",
       "condition": "new"
     },
     {
@@ -1424,12 +1346,6 @@
       "condition": "new"
     },
     {
-      "name": "New2026ChevroletSuburban4WDLT",
-      "vin": "1GNS6CKD1TR369790",
-      "url": "https://willyml1979-dotcom.github.io/preston-chevrolet-buick-gmc-cadillac-ltd-mirror/new/d8acf2f4f902.html",
-      "condition": "new"
-    },
-    {
       "name": "New2026ChevroletSuburban4WDPremier",
       "vin": "1GNS6FKDXTR347434",
       "url": "https://willyml1979-dotcom.github.io/preston-chevrolet-buick-gmc-cadillac-ltd-mirror/new/a7f6c751750a.html",
@@ -1439,18 +1355,6 @@
       "name": "New2026ChevroletSuburban4WDPremier",
       "vin": "1GNS6FKL6TR374878",
       "url": "https://willyml1979-dotcom.github.io/preston-chevrolet-buick-gmc-cadillac-ltd-mirror/new/abcda2dbd980.html",
-      "condition": "new"
-    },
-    {
-      "name": "New2026ChevroletSuburban4WDRST",
-      "vin": "1GNS6EKD0TR394529",
-      "url": "https://willyml1979-dotcom.github.io/preston-chevrolet-buick-gmc-cadillac-ltd-mirror/new/ec0e46a5b059.html",
-      "condition": "new"
-    },
-    {
-      "name": "New2026ChevroletSuburban4WDRST",
-      "vin": "1GNS6EKD9TR394464",
-      "url": "https://willyml1979-dotcom.github.io/preston-chevrolet-buick-gmc-cadillac-ltd-mirror/new/d8f2fbc20de5.html",
       "condition": "new"
     },
     {
@@ -1589,12 +1493,6 @@
       "name": "New2026ChevroletTraxFWD2RS",
       "vin": "KL77LJE2XTC162854",
       "url": "https://willyml1979-dotcom.github.io/preston-chevrolet-buick-gmc-cadillac-ltd-mirror/new/34f5dc06d279.html",
-      "condition": "new"
-    },
-    {
-      "name": "New2026ChevroletTraxFWD2RS",
-      "vin": "KL77LJE2XTC180898",
-      "url": "https://willyml1979-dotcom.github.io/preston-chevrolet-buick-gmc-cadillac-ltd-mirror/new/dd408619baa2.html",
       "condition": "new"
     },
     {
@@ -1749,12 +1647,6 @@
     },
     {
       "name": "New2026GMCHUMMER EV SUV4WD2X",
-      "vin": "1GKTENDE3TU605567",
-      "url": "https://willyml1979-dotcom.github.io/preston-chevrolet-buick-gmc-cadillac-ltd-mirror/new/6313ec12e8c2.html",
-      "condition": "new"
-    },
-    {
-      "name": "New2026GMCHUMMER EV SUV4WD2X",
       "vin": "1GKTENDE9TU606075",
       "url": "https://willyml1979-dotcom.github.io/preston-chevrolet-buick-gmc-cadillac-ltd-mirror/new/d9e9108e9908.html",
       "condition": "new"
@@ -1778,21 +1670,21 @@
       "condition": "new"
     },
     {
-      "name": "New2026GMCSierra 15004WDDenali",
-      "vin": "1GTUUGE85TZ475317",
-      "url": "https://willyml1979-dotcom.github.io/preston-chevrolet-buick-gmc-cadillac-ltd-mirror/new/c46f02dbae93.html",
+      "name": "New2026GMCSierra 15004WDAT4",
+      "vin": "1GTUUEEL3TZ560259",
+      "url": "https://willyml1979-dotcom.github.io/preston-chevrolet-buick-gmc-cadillac-ltd-mirror/new/37717eb042bf.html",
+      "condition": "new"
+    },
+    {
+      "name": "New2026GMCSierra 15004WDAT4",
+      "vin": "1GTUUEEL8TZ559821",
+      "url": "https://willyml1979-dotcom.github.io/preston-chevrolet-buick-gmc-cadillac-ltd-mirror/new/38f1376486c7.html",
       "condition": "new"
     },
     {
       "name": "New2026GMCSierra 15004WDDenali",
-      "vin": "3GTUUGE89TG484926",
-      "url": "https://willyml1979-dotcom.github.io/preston-chevrolet-buick-gmc-cadillac-ltd-mirror/new/dee2c1316411.html",
-      "condition": "new"
-    },
-    {
-      "name": "New2026GMCSierra 15004WDDenali",
-      "vin": "3GTUUGEL7TG239871",
-      "url": "https://willyml1979-dotcom.github.io/preston-chevrolet-buick-gmc-cadillac-ltd-mirror/new/e73f5be65c12.html",
+      "vin": "3GTUUGE80TG484927",
+      "url": "https://willyml1979-dotcom.github.io/preston-chevrolet-buick-gmc-cadillac-ltd-mirror/new/32519a9c3b98.html",
       "condition": "new"
     },
     {
@@ -1817,24 +1709,6 @@
       "name": "New2026GMCSierra 15004WDElevation",
       "vin": "3GTUUCED4TG395237",
       "url": "https://willyml1979-dotcom.github.io/preston-chevrolet-buick-gmc-cadillac-ltd-mirror/new/ed128696a4fc.html",
-      "condition": "new"
-    },
-    {
-      "name": "New2026GMCSierra 15004WDElevation",
-      "vin": "3GTUUCED5TG288178",
-      "url": "https://willyml1979-dotcom.github.io/preston-chevrolet-buick-gmc-cadillac-ltd-mirror/new/aa85360b8776.html",
-      "condition": "new"
-    },
-    {
-      "name": "New2026GMCSierra 15004WDPro",
-      "vin": "1GTPUAEK4TZ266639",
-      "url": "https://willyml1979-dotcom.github.io/preston-chevrolet-buick-gmc-cadillac-ltd-mirror/new/6124454e4b06.html",
-      "condition": "new"
-    },
-    {
-      "name": "New2026GMCSierra 15004WDPro",
-      "vin": "1GTPUAEK9TZ150482",
-      "url": "https://willyml1979-dotcom.github.io/preston-chevrolet-buick-gmc-cadillac-ltd-mirror/new/816b0bd3bb88.html",
       "condition": "new"
     },
     {
@@ -1907,12 +1781,6 @@
       "name": "New2026GMCSierra 15004WDSLT",
       "vin": "1GTUUDE80TZ510442",
       "url": "https://willyml1979-dotcom.github.io/preston-chevrolet-buick-gmc-cadillac-ltd-mirror/new/d409671eb313.html",
-      "condition": "new"
-    },
-    {
-      "name": "New2026GMCSierra 15004WDSLT",
-      "vin": "1GTUUDE8XTZ505541",
-      "url": "https://willyml1979-dotcom.github.io/preston-chevrolet-buick-gmc-cadillac-ltd-mirror/new/be3de8a37175.html",
       "condition": "new"
     },
     {
@@ -2133,6 +2001,12 @@
     },
     {
       "name": "New2026GMCSierra 3500HD4WDSLE",
+      "vin": "1GT4UTE77TF435953",
+      "url": "https://willyml1979-dotcom.github.io/preston-chevrolet-buick-gmc-cadillac-ltd-mirror/new/c2f214502801.html",
+      "condition": "new"
+    },
+    {
+      "name": "New2026GMCSierra 3500HD4WDSLE",
       "vin": "1GT4UTEY5TF350344",
       "url": "https://willyml1979-dotcom.github.io/preston-chevrolet-buick-gmc-cadillac-ltd-mirror/new/3046566abfbc.html",
       "condition": "new"
@@ -2153,12 +2027,6 @@
       "name": "New2026GMCSierra 3500HD4WDSLT",
       "vin": "1GT4UUEY3TF122719",
       "url": "https://willyml1979-dotcom.github.io/preston-chevrolet-buick-gmc-cadillac-ltd-mirror/new/57645bb1db54.html",
-      "condition": "new"
-    },
-    {
-      "name": "New2026GMCSierra EV4WDExtended Range Elevation",
-      "vin": "1GT1ETED8TU418080",
-      "url": "https://willyml1979-dotcom.github.io/preston-chevrolet-buick-gmc-cadillac-ltd-mirror/new/97af92364d85.html",
       "condition": "new"
     },
     {
@@ -2241,26 +2109,14 @@
     },
     {
       "name": "New2027ChevroletBoltFWDLT",
-      "vin": "1G1FY6EV8VF109636",
-      "url": "https://willyml1979-dotcom.github.io/preston-chevrolet-buick-gmc-cadillac-ltd-mirror/new/9e1c58e15da2.html",
-      "condition": "new"
-    },
-    {
-      "name": "New2027ChevroletBoltFWDLT",
-      "vin": "1G1FY6EV8VF119891",
-      "url": "https://willyml1979-dotcom.github.io/preston-chevrolet-buick-gmc-cadillac-ltd-mirror/new/4566a4c21282.html",
+      "vin": "1G1FY6EV8VF128901",
+      "url": "https://willyml1979-dotcom.github.io/preston-chevrolet-buick-gmc-cadillac-ltd-mirror/new/534b4dd512a4.html",
       "condition": "new"
     },
     {
       "name": "New2027ChevroletCorvetteRWD1LT",
       "vin": "1G1YA2D56V5102455",
       "url": "https://willyml1979-dotcom.github.io/preston-chevrolet-buick-gmc-cadillac-ltd-mirror/new/df37456aab24.html",
-      "condition": "new"
-    },
-    {
-      "name": "New2027ChevroletCorvetteRWD2LT",
-      "vin": "1G1YB2D58V5101532",
-      "url": "https://willyml1979-dotcom.github.io/preston-chevrolet-buick-gmc-cadillac-ltd-mirror/new/8d99e9a9042e.html",
       "condition": "new"
     },
     {
@@ -2301,8 +2157,32 @@
     },
     {
       "name": "New2027ChevroletEquinox EVFWDLT1 w/PCY",
+      "vin": "3GN7DMRP0VS115540",
+      "url": "https://willyml1979-dotcom.github.io/preston-chevrolet-buick-gmc-cadillac-ltd-mirror/new/e4f34424d0ab.html",
+      "condition": "new"
+    },
+    {
+      "name": "New2027ChevroletEquinox EVFWDLT1 w/PCY",
       "vin": "3GN7DMRP3VS111367",
       "url": "https://willyml1979-dotcom.github.io/preston-chevrolet-buick-gmc-cadillac-ltd-mirror/new/f80d4af627d7.html",
+      "condition": "new"
+    },
+    {
+      "name": "New2027ChevroletEquinox EVFWDLT1 w/PCY",
+      "vin": "3GN7DMRP3VS116651",
+      "url": "https://willyml1979-dotcom.github.io/preston-chevrolet-buick-gmc-cadillac-ltd-mirror/new/7c4333126f63.html",
+      "condition": "new"
+    },
+    {
+      "name": "New2027ChevroletEquinox EVFWDLT1 w/PCY",
+      "vin": "3GN7DMRP6VS116644",
+      "url": "https://willyml1979-dotcom.github.io/preston-chevrolet-buick-gmc-cadillac-ltd-mirror/new/c268b5f5027a.html",
+      "condition": "new"
+    },
+    {
+      "name": "New2027ChevroletEquinox EVFWDLT1 w/PCY",
+      "vin": "3GN7DMRP9VS115567",
+      "url": "https://willyml1979-dotcom.github.io/preston-chevrolet-buick-gmc-cadillac-ltd-mirror/new/8672519da409.html",
       "condition": "new"
     },
     {
@@ -2313,20 +2193,20 @@
     },
     {
       "name": "New2027ChevroletEquinox EVAWDLT1 w/PCY",
-      "vin": "3GN7DMRR3VS107675",
-      "url": "https://willyml1979-dotcom.github.io/preston-chevrolet-buick-gmc-cadillac-ltd-mirror/new/917fd089f36f.html",
+      "vin": "3GN7DMRR2VS116688",
+      "url": "https://willyml1979-dotcom.github.io/preston-chevrolet-buick-gmc-cadillac-ltd-mirror/new/c3865bbaecfc.html",
       "condition": "new"
     },
     {
       "name": "New2027ChevroletEquinox EVAWDLT1 w/PCY",
-      "vin": "3GN7DMRRXVS107673",
-      "url": "https://willyml1979-dotcom.github.io/preston-chevrolet-buick-gmc-cadillac-ltd-mirror/new/4abc2dc56d8f.html",
+      "vin": "3GN7DMRR5VS116667",
+      "url": "https://willyml1979-dotcom.github.io/preston-chevrolet-buick-gmc-cadillac-ltd-mirror/new/5553267f55cd.html",
       "condition": "new"
     },
     {
-      "name": "New2027ChevroletEquinox EVFWDRS",
-      "vin": "3GN7DSRP9VS107781",
-      "url": "https://willyml1979-dotcom.github.io/preston-chevrolet-buick-gmc-cadillac-ltd-mirror/new/b05983fcf480.html",
+      "name": "New2027ChevroletSilverado 15004WDSilverado Z71",
+      "vin": "3GCUKCE8XVG107765",
+      "url": "https://willyml1979-dotcom.github.io/preston-chevrolet-buick-gmc-cadillac-ltd-mirror/new/3fb5d602901c.html",
       "condition": "new"
     },
     {
@@ -2367,12 +2247,6 @@
     },
     {
       "name": "New2027ChevroletTraverseAWDZ71",
-      "vin": "1GNEVJKS5VJ158967",
-      "url": "https://willyml1979-dotcom.github.io/preston-chevrolet-buick-gmc-cadillac-ltd-mirror/new/8380746480b7.html",
-      "condition": "new"
-    },
-    {
-      "name": "New2027ChevroletTraverseAWDZ71",
       "vin": "1GNEVJKS8VJ153911",
       "url": "https://willyml1979-dotcom.github.io/preston-chevrolet-buick-gmc-cadillac-ltd-mirror/new/58822ee8e10d.html",
       "condition": "new"
@@ -2381,6 +2255,24 @@
       "name": "New2027GMCAcadiaAWDDenali",
       "vin": "1GKEMRKS6VJ166414",
       "url": "https://willyml1979-dotcom.github.io/preston-chevrolet-buick-gmc-cadillac-ltd-mirror/new/02d0f6db9add.html",
+      "condition": "new"
+    },
+    {
+      "name": "New2027GMCCanyon4WDAT4",
+      "vin": "1GTP2DEE7V1118701",
+      "url": "https://willyml1979-dotcom.github.io/preston-chevrolet-buick-gmc-cadillac-ltd-mirror/new/4a09d2644052.html",
+      "condition": "new"
+    },
+    {
+      "name": "New2027GMCSavana Cargo VanRWDBASE",
+      "vin": "1GTW7AFP1V1121427",
+      "url": "https://willyml1979-dotcom.github.io/preston-chevrolet-buick-gmc-cadillac-ltd-mirror/new/3a1c27f7cc98.html",
+      "condition": "new"
+    },
+    {
+      "name": "New2027GMCSavana Cargo VanRWDBASE",
+      "vin": "1GTW7AFP3V1121364",
+      "url": "https://willyml1979-dotcom.github.io/preston-chevrolet-buick-gmc-cadillac-ltd-mirror/new/92c0f85666f5.html",
       "condition": "new"
     },
     {
@@ -2405,6 +2297,93 @@
       "name": "New2027GMCTerrainAWDAWD Elevation",
       "vin": "3GKALUEG4VL232124",
       "url": "https://willyml1979-dotcom.github.io/preston-chevrolet-buick-gmc-cadillac-ltd-mirror/new/45c3041f3a81.html",
+      "condition": "new"
+    },
+    {
+      "name": "New2027GMCYukon4WDAT4",
+      "vin": "1GKS2CKD4VR169868",
+      "url": "https://willyml1979-dotcom.github.io/preston-chevrolet-buick-gmc-cadillac-ltd-mirror/new/ce5920a5ccf4.html",
+      "condition": "new"
+    },
+    {
+      "name": "2026 Buick Encore GX for sale near Surrey & Maple Ridge, BC KL4AMCSLXTB315764 - Preston Chevrolet Buick GMC Cadillac.",
+      "vin": "KL4AMCSLXTB315764",
+      "url": "https://willyml1979-dotcom.github.io/preston-chevrolet-buick-gmc-cadillac-ltd-mirror/new/7815d3eb7916.html",
+      "year": 2026,
+      "make": "Buick",
+      "model": "Encore GX",
+      "condition": "new"
+    },
+    {
+      "name": "2026 Chevrolet Trax for sale near Surrey & Maple Ridge, BC KL77LHE29TC284050 - Preston Chevrolet Buick GMC Cadillac.",
+      "vin": "KL77LHE29TC284050",
+      "url": "https://willyml1979-dotcom.github.io/preston-chevrolet-buick-gmc-cadillac-ltd-mirror/new/a8f6a2398d54.html",
+      "year": 2026,
+      "make": "Chevrolet",
+      "model": "Trax",
+      "condition": "new"
+    },
+    {
+      "name": "2026 GMC HUMMER EV SUV for sale near Surrey & Maple Ridge, BC 1GKTENDE3TU605567 - Preston Chevrolet Buick GMC Cadillac.",
+      "vin": "1GKTENDE3TU605567",
+      "url": "https://willyml1979-dotcom.github.io/preston-chevrolet-buick-gmc-cadillac-ltd-mirror/new/6313ec12e8c2.html",
+      "year": 2026,
+      "make": "GMC",
+      "model": "Hummer EV",
+      "condition": "new"
+    },
+    {
+      "name": "2026 GMC Sierra 1500 for sale near Surrey & Maple Ridge, BC 1GTUUGE85TZ475317 - Preston Chevrolet Buick GMC Cadillac.",
+      "vin": "1GTUUGE85TZ475317",
+      "url": "https://willyml1979-dotcom.github.io/preston-chevrolet-buick-gmc-cadillac-ltd-mirror/new/c46f02dbae93.html",
+      "year": 2026,
+      "make": "GMC",
+      "model": "Sierra 1500",
+      "condition": "new"
+    },
+    {
+      "name": "2026 GMC Sierra 1500 for sale near Surrey & Maple Ridge, BC 3GTUUGEL7TG239871 - Preston Chevrolet Buick GMC Cadillac.",
+      "vin": "3GTUUGEL7TG239871",
+      "url": "https://willyml1979-dotcom.github.io/preston-chevrolet-buick-gmc-cadillac-ltd-mirror/new/e73f5be65c12.html",
+      "year": 2026,
+      "make": "GMC",
+      "model": "Sierra 1500",
+      "condition": "new"
+    },
+    {
+      "name": "2026 GMC Sierra 1500 for sale near Surrey & Maple Ridge, BC 1GTPUAEK4TZ266639 - Preston Chevrolet Buick GMC Cadillac.",
+      "vin": "1GTPUAEK4TZ266639",
+      "url": "https://willyml1979-dotcom.github.io/preston-chevrolet-buick-gmc-cadillac-ltd-mirror/new/6124454e4b06.html",
+      "year": 2026,
+      "make": "GMC",
+      "model": "Sierra 1500",
+      "condition": "new"
+    },
+    {
+      "name": "2026 GMC Sierra 1500 for sale near Surrey & Maple Ridge, BC 1GTPUAEK9TZ150482 - Preston Chevrolet Buick GMC Cadillac.",
+      "vin": "1GTPUAEK9TZ150482",
+      "url": "https://willyml1979-dotcom.github.io/preston-chevrolet-buick-gmc-cadillac-ltd-mirror/new/816b0bd3bb88.html",
+      "year": 2026,
+      "make": "GMC",
+      "model": "Sierra 1500",
+      "condition": "new"
+    },
+    {
+      "name": "2026 GMC Yukon for sale near Surrey & Maple Ridge, BC 1GKS2DKLXTR412089 - Preston Chevrolet Buick GMC Cadillac.",
+      "vin": "1GKS2DKLXTR412089",
+      "url": "https://willyml1979-dotcom.github.io/preston-chevrolet-buick-gmc-cadillac-ltd-mirror/new/da6ad1e6567a.html",
+      "year": 2026,
+      "make": "GMC",
+      "model": "Yukon",
+      "condition": "new"
+    },
+    {
+      "name": "2027 Chevrolet Equinox EV for sale near Surrey & Maple Ridge, BC 3GN7DMRP2VS107052 - Preston Chevrolet Buick GMC Cadillac.",
+      "vin": "3GN7DMRP2VS107052",
+      "url": "https://willyml1979-dotcom.github.io/preston-chevrolet-buick-gmc-cadillac-ltd-mirror/new/402c507e8b96.html",
+      "year": 2027,
+      "make": "Chevrolet",
+      "model": "Equinox EV",
       "condition": "new"
     }
   ]
