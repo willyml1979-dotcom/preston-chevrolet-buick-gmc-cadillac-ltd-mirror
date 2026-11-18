@@ -1,7 +1,7 @@
 {
   "dealership": "Preston Chevrolet Buick Gmc Cadillac Ltd",
-  "generated_at": "2026-11-18T02:29:41",
-  "vehicle_count": 363,
+  "generated_at": "2026-11-18T10:35:13",
+  "vehicle_count": 364,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -613,12 +613,6 @@
     },
     {
       "name": "New2026ChevroletEquinox EVFWDLT",
-      "vin": "3GN7DLRR4TS185129",
-      "url": "https://willyml1979-dotcom.github.io/preston-chevrolet-buick-gmc-cadillac-ltd-mirror/new/454bdbe8d592.html",
-      "condition": "new"
-    },
-    {
-      "name": "New2026ChevroletEquinox EVFWDLT",
       "vin": "3GN7DLRR8TS191368",
       "url": "https://willyml1979-dotcom.github.io/preston-chevrolet-buick-gmc-cadillac-ltd-mirror/new/abaea42f37ac.html",
       "condition": "new"
@@ -657,6 +651,12 @@
       "name": "New2026ChevroletSilverado 15004WDCustom",
       "vin": "1GCPKBEK7TZ383370",
       "url": "https://willyml1979-dotcom.github.io/preston-chevrolet-buick-gmc-cadillac-ltd-mirror/new/ab4c06610de9.html",
+      "condition": "new"
+    },
+    {
+      "name": "New2026ChevroletSilverado 15004WDCustom",
+      "vin": "1GCPKBEK9TZ410018",
+      "url": "https://willyml1979-dotcom.github.io/preston-chevrolet-buick-gmc-cadillac-ltd-mirror/new/6c3ed0d79af4.html",
       "condition": "new"
     },
     {
@@ -1303,6 +1303,12 @@
     },
     {
       "name": "New2026GMCSierra 15004WDElevation",
+      "vin": "1GTUUCED1TZ452798",
+      "url": "https://willyml1979-dotcom.github.io/preston-chevrolet-buick-gmc-cadillac-ltd-mirror/new/58418380846a.html",
+      "condition": "new"
+    },
+    {
+      "name": "New2026GMCSierra 15004WDElevation",
       "vin": "1GTUUCED5TZ417147",
       "url": "https://willyml1979-dotcom.github.io/preston-chevrolet-buick-gmc-cadillac-ltd-mirror/new/758b6775fd91.html",
       "condition": "new"
@@ -1411,12 +1417,6 @@
     },
     {
       "name": "New2026GMCSierra 3500HD4WDDenali Ultimate",
-      "vin": "1GT4UYEY1TF388683",
-      "url": "https://willyml1979-dotcom.github.io/preston-chevrolet-buick-gmc-cadillac-ltd-mirror/new/e5e7f28e2866.html",
-      "condition": "new"
-    },
-    {
-      "name": "New2026GMCSierra 3500HD4WDDenali Ultimate",
       "vin": "1GT4UYEY5TF420969",
       "url": "https://willyml1979-dotcom.github.io/preston-chevrolet-buick-gmc-cadillac-ltd-mirror/new/0ddfa15d0710.html",
       "condition": "new"
@@ -1443,12 +1443,6 @@
       "name": "New2026GMCSierra 3500HD4WDDenali Ultimate",
       "vin": "1GT4UYEY9TF350103",
       "url": "https://willyml1979-dotcom.github.io/preston-chevrolet-buick-gmc-cadillac-ltd-mirror/new/aada5bcdd91c.html",
-      "condition": "new"
-    },
-    {
-      "name": "New2026GMCSierra 3500HD4WDDenali Ultimate",
-      "vin": "1GT4UYEY9TF390066",
-      "url": "https://willyml1979-dotcom.github.io/preston-chevrolet-buick-gmc-cadillac-ltd-mirror/new/19586a446fc8.html",
       "condition": "new"
     },
     {
@@ -1485,12 +1479,6 @@
       "name": "New2026GMCSierra 3500HD4WDPro",
       "vin": "1GT4USE79TF357931",
       "url": "https://willyml1979-dotcom.github.io/preston-chevrolet-buick-gmc-cadillac-ltd-mirror/new/816a52f9f218.html",
-      "condition": "new"
-    },
-    {
-      "name": "New2026GMCSierra 3500HD4WDPro",
-      "vin": "1GT4USEY0TF308108",
-      "url": "https://willyml1979-dotcom.github.io/preston-chevrolet-buick-gmc-cadillac-ltd-mirror/new/c5dbcf2ed7d9.html",
       "condition": "new"
     },
     {
@@ -2527,6 +2515,33 @@
       "name": "2026 GMC Sierra 3500HD for sale near Surrey & Maple Ridge, BC 1GT4UWEY6TF122547 - Preston Chevrolet Buick GMC Cadillac.",
       "vin": "1GT4UWEY6TF122547",
       "url": "https://willyml1979-dotcom.github.io/preston-chevrolet-buick-gmc-cadillac-ltd-mirror/new/77366ff1db67.html",
+      "year": 2026,
+      "make": "GMC",
+      "model": "Sierra 3500HD",
+      "condition": "new"
+    },
+    {
+      "name": "2026 GMC Sierra 3500HD for sale near Surrey & Maple Ridge, BC 1GT4UYEY1TF388683 - Preston Chevrolet Buick GMC Cadillac.",
+      "vin": "1GT4UYEY1TF388683",
+      "url": "https://willyml1979-dotcom.github.io/preston-chevrolet-buick-gmc-cadillac-ltd-mirror/new/e5e7f28e2866.html",
+      "year": 2026,
+      "make": "GMC",
+      "model": "Sierra 3500HD",
+      "condition": "new"
+    },
+    {
+      "name": "2026 GMC Sierra 3500HD for sale near Surrey & Maple Ridge, BC 1GT4UYEY9TF390066 - Preston Chevrolet Buick GMC Cadillac.",
+      "vin": "1GT4UYEY9TF390066",
+      "url": "https://willyml1979-dotcom.github.io/preston-chevrolet-buick-gmc-cadillac-ltd-mirror/new/19586a446fc8.html",
+      "year": 2026,
+      "make": "GMC",
+      "model": "Sierra 3500HD",
+      "condition": "new"
+    },
+    {
+      "name": "2026 GMC Sierra 3500HD for sale near Surrey & Maple Ridge, BC 1GT4USEY0TF308108 - Preston Chevrolet Buick GMC Cadillac.",
+      "vin": "1GT4USEY0TF308108",
+      "url": "https://willyml1979-dotcom.github.io/preston-chevrolet-buick-gmc-cadillac-ltd-mirror/new/c5dbcf2ed7d9.html",
       "year": 2026,
       "make": "GMC",
       "model": "Sierra 3500HD",

@@ -1,6 +1,6 @@
 # Preston Chevrolet Buick GMC Cadillac Ltd.
 
- dealership in Langley. AI-readable inventory mirror, about 363 vehicles.
+ dealership in Langley. AI-readable inventory mirror, about 364 vehicles.
 
 - Official website: https://www.prestongm.com/
 - Used vehicles: https://willyml1979-dotcom.github.io/preston-chevrolet-buick-gmc-cadillac-ltd-mirror/used/
