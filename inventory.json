@@ -1,7 +1,7 @@
 {
   "dealership": "Preston Chevrolet Buick Gmc Cadillac Ltd",
-  "generated_at": "2026-11-18T21:01:01",
-  "vehicle_count": 365,
+  "generated_at": "2026-11-18T21:50:18",
+  "vehicle_count": 366,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -14,35 +14,11 @@
       "price_currency": "CAD"
     },
     {
-      "name": "Used2017NissanLEAFFWDS",
-      "vin": "1N4BZ0CP6HC311424",
-      "url": "https://willyml1979-dotcom.github.io/preston-chevrolet-buick-gmc-cadillac-ltd-mirror/used/f32a7f508c12.html",
-      "condition": "used",
-      "price": 11694.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "Used2019FordExpedition4WDPlatinum",
       "vin": "1FMJU1MT3KEA21946",
       "url": "https://willyml1979-dotcom.github.io/preston-chevrolet-buick-gmc-cadillac-ltd-mirror/used/4db08984796b.html",
       "condition": "used",
       "price": 37694.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "Certified Used2019GMCSierra 15004WDDenali",
-      "vin": "1GTU9FED1KZ405854",
-      "url": "https://willyml1979-dotcom.github.io/preston-chevrolet-buick-gmc-cadillac-ltd-mirror/used/fe4b146eb8cb.html",
-      "condition": "used",
-      "price": 46694.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "Certified Used2019ToyotaC-HRFWDBASE",
-      "vin": "NMTKHMBX1KR075811",
-      "url": "https://willyml1979-dotcom.github.io/preston-chevrolet-buick-gmc-cadillac-ltd-mirror/used/3befadaa61f9.html",
-      "condition": "used",
-      "price": 22694.0,
       "price_currency": "CAD"
     },
     {
@@ -54,22 +30,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "Certified Used2021CadillacEscalade4WDPremium Luxury Platinum",
-      "vin": "1GYS4DKL5MR378984",
-      "url": "https://willyml1979-dotcom.github.io/preston-chevrolet-buick-gmc-cadillac-ltd-mirror/used/d54b949c3984.html",
-      "condition": "used",
-      "price": 80694.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "Certified Used2021JeepWrangler4WDUnlimited Rubicon",
-      "vin": "1C4HJXFN0MW740579",
-      "url": "https://willyml1979-dotcom.github.io/preston-chevrolet-buick-gmc-cadillac-ltd-mirror/used/da666f533a70.html",
-      "condition": "used",
-      "price": 40694.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "Certified Used2022CadillacEscalade ESV4WDPremium Luxury",
       "vin": "1GYS4LKL0NR173133",
       "url": "https://willyml1979-dotcom.github.io/preston-chevrolet-buick-gmc-cadillac-ltd-mirror/used/f9a2f5d683ca.html",
@@ -78,59 +38,11 @@
       "price_currency": "CAD"
     },
     {
-      "name": "Certified Used2022ChevroletSilverado 3500HD4WDLT",
-      "vin": "2GC4YTEY6N1213167",
-      "url": "https://willyml1979-dotcom.github.io/preston-chevrolet-buick-gmc-cadillac-ltd-mirror/used/28c142e69372.html",
-      "condition": "used",
-      "price": 67694.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "Certified Used2022JeepCompass4WD(RED) Edition",
-      "vin": "3C4NJDCB3NT188711",
-      "url": "https://willyml1979-dotcom.github.io/preston-chevrolet-buick-gmc-cadillac-ltd-mirror/used/4eb33dc9c557.html",
-      "condition": "used",
-      "price": 26694.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "Certified Used2022Mercedes-BenzA-ClassAWDA 220",
-      "vin": "W1K3G4FB6NJ346974",
-      "url": "https://willyml1979-dotcom.github.io/preston-chevrolet-buick-gmc-cadillac-ltd-mirror/used/a92139382e2e.html",
-      "condition": "used",
-      "price": 29694.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "Certified Used2022VolkswagenJettaFWDHighline",
       "vin": "3VWGM7BU5NM031418",
       "url": "https://willyml1979-dotcom.github.io/preston-chevrolet-buick-gmc-cadillac-ltd-mirror/used/646ab2d47c73.html",
       "condition": "used",
       "price": 19693.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "Certified Used2023AudiQ4 e-tronAWDBASE",
-      "vin": "WA1G2AFZ8PP039712",
-      "url": "https://willyml1979-dotcom.github.io/preston-chevrolet-buick-gmc-cadillac-ltd-mirror/used/f5fd6397c86e.html",
-      "condition": "used",
-      "price": 39097.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "Certified Used2023CadillacXT4AWDAWD Premium Luxury",
-      "vin": "1GYFZDR43PF200319",
-      "url": "https://willyml1979-dotcom.github.io/preston-chevrolet-buick-gmc-cadillac-ltd-mirror/used/99529c431159.html",
-      "condition": "used",
-      "price": 36694.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "Certified Used2023CadillacXT5AWDAWD Sport",
-      "vin": "1GYKNGRS0PZ104687",
-      "url": "https://willyml1979-dotcom.github.io/preston-chevrolet-buick-gmc-cadillac-ltd-mirror/used/907f589c3325.html",
-      "condition": "used",
-      "price": 40694.0,
       "price_currency": "CAD"
     },
     {
@@ -150,12 +62,10 @@
       "price_currency": "CAD"
     },
     {
-      "name": "Certified Used2023GMCYukon4WDSLT",
-      "vin": "1GKS2BKT9PR244164",
-      "url": "https://willyml1979-dotcom.github.io/preston-chevrolet-buick-gmc-cadillac-ltd-mirror/used/26a60b85cb1a.html",
-      "condition": "used",
-      "price": 66694.0,
-      "price_currency": "CAD"
+      "name": "Used2023GMCYukon4WDSLT",
+      "vin": "1GKS2BKT1PR331282",
+      "url": "https://willyml1979-dotcom.github.io/preston-chevrolet-buick-gmc-cadillac-ltd-mirror/used/d9ff72b391a1.html",
+      "condition": "used"
     },
     {
       "name": "Certified Used2023TeslaModel YAWDLong Range",
@@ -198,14 +108,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "Certified Used2024ChevroletTraxFWD1RS",
-      "vin": "KL77LGE23RC112583",
-      "url": "https://willyml1979-dotcom.github.io/preston-chevrolet-buick-gmc-cadillac-ltd-mirror/used/4920e96cc2c4.html",
-      "condition": "used",
-      "price": 22694.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "Certified Used2024FordF-1504WDLARIAT",
       "vin": "1FTFW5L8XRFA66377",
       "url": "https://willyml1979-dotcom.github.io/preston-chevrolet-buick-gmc-cadillac-ltd-mirror/used/cfd8797d8c45.html",
@@ -235,14 +137,6 @@
       "url": "https://willyml1979-dotcom.github.io/preston-chevrolet-buick-gmc-cadillac-ltd-mirror/used/82987f4ed9c7.html",
       "condition": "used",
       "price": 50694.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "Certified Used2026CadillacCT5AWDSport",
-      "vin": "1G6DU5RK4T0101654",
-      "url": "https://willyml1979-dotcom.github.io/preston-chevrolet-buick-gmc-cadillac-ltd-mirror/used/66a3bf4d1399.html",
-      "condition": "used",
-      "price": 66694.0,
       "price_currency": "CAD"
     },
     {
@@ -1793,6 +1687,17 @@
       "price_currency": "CAD"
     },
     {
+      "name": "2017 Nissan LEAF for sale near Surrey & Maple Ridge, BC 1N4BZ0CP6HC311424 - Preston Chevrolet Buick GMC Cadillac.",
+      "vin": "1N4BZ0CP6HC311424",
+      "url": "https://willyml1979-dotcom.github.io/preston-chevrolet-buick-gmc-cadillac-ltd-mirror/used/f32a7f508c12.html",
+      "year": 2017,
+      "make": "Nissan",
+      "model": "Leaf",
+      "condition": "used",
+      "price": 11694.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2018 Audi A3 Sportback e-tron for sale near Surrey & Maple Ridge, BC WAUUPBFF2JA106480 - Preston Chevrolet Buick GMC Cadillac.",
       "vin": "WAUUPBFF2JA106480",
       "url": "https://willyml1979-dotcom.github.io/preston-chevrolet-buick-gmc-cadillac-ltd-mirror/used/2c05a2564a69.html",
@@ -1804,6 +1709,17 @@
       "price_currency": "CAD"
     },
     {
+      "name": "2019 GMC Sierra 1500 for sale near Surrey & Maple Ridge, BC 1GTU9FED1KZ405854 - Preston Chevrolet Buick GMC Cadillac.",
+      "vin": "1GTU9FED1KZ405854",
+      "url": "https://willyml1979-dotcom.github.io/preston-chevrolet-buick-gmc-cadillac-ltd-mirror/used/fe4b146eb8cb.html",
+      "year": 2019,
+      "make": "GMC",
+      "model": "Sierra 1500",
+      "condition": "used",
+      "price": 46694.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2019 Mercedes-Benz S-Class for sale near Surrey & Maple Ridge, BC WDDUG8GB8KA453448 - Preston Chevrolet Buick GMC Cadillac.",
       "vin": "WDDUG8GB8KA453448",
       "url": "https://willyml1979-dotcom.github.io/preston-chevrolet-buick-gmc-cadillac-ltd-mirror/used/01ad68749d6c.html",
@@ -1812,6 +1728,17 @@
       "model": "S-Class",
       "condition": "used",
       "price": 55199.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2019 Toyota C-HR for sale near Surrey & Maple Ridge, BC NMTKHMBX1KR075811 - Preston Chevrolet Buick GMC Cadillac.",
+      "vin": "NMTKHMBX1KR075811",
+      "url": "https://willyml1979-dotcom.github.io/preston-chevrolet-buick-gmc-cadillac-ltd-mirror/used/3befadaa61f9.html",
+      "year": 2019,
+      "make": "Toyota",
+      "model": "C-HR",
+      "condition": "used",
+      "price": 20999.0,
       "price_currency": "CAD"
     },
     {
@@ -1859,6 +1786,28 @@
       "price_currency": "CAD"
     },
     {
+      "name": "2021 Cadillac Escalade for sale near Surrey & Maple Ridge, BC 1GYS4DKL5MR378984 - Preston Chevrolet Buick GMC Cadillac.",
+      "vin": "1GYS4DKL5MR378984",
+      "url": "https://willyml1979-dotcom.github.io/preston-chevrolet-buick-gmc-cadillac-ltd-mirror/used/d54b949c3984.html",
+      "year": 2021,
+      "make": "Cadillac",
+      "model": "Escalade",
+      "condition": "used",
+      "price": 80694.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2021 Jeep Wrangler for sale near Surrey & Maple Ridge, BC 1C4HJXFN0MW740579 - Preston Chevrolet Buick GMC Cadillac.",
+      "vin": "1C4HJXFN0MW740579",
+      "url": "https://willyml1979-dotcom.github.io/preston-chevrolet-buick-gmc-cadillac-ltd-mirror/used/da666f533a70.html",
+      "year": 2021,
+      "make": "Jeep",
+      "model": "Wrangler",
+      "condition": "used",
+      "price": 40694.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2021 Lexus RX for sale near Surrey & Maple Ridge, BC 2T2JGMDA9MC069223 - Preston Chevrolet Buick GMC Cadillac.",
       "vin": "2T2JGMDA9MC069223",
       "url": "https://willyml1979-dotcom.github.io/preston-chevrolet-buick-gmc-cadillac-ltd-mirror/used/b7c3ac4c8bcb.html",
@@ -1903,6 +1852,17 @@
       "price_currency": "CAD"
     },
     {
+      "name": "2022 Chevrolet Silverado 3500HD for sale near Surrey & Maple Ridge, BC 2GC4YTEY6N1213167 - Preston Chevrolet Buick GMC Cadillac.",
+      "vin": "2GC4YTEY6N1213167",
+      "url": "https://willyml1979-dotcom.github.io/preston-chevrolet-buick-gmc-cadillac-ltd-mirror/used/28c142e69372.html",
+      "year": 2022,
+      "make": "Chevrolet",
+      "model": "Silverado 3500HD",
+      "condition": "used",
+      "price": 65284.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2022 Ford F-150 for sale near Surrey & Maple Ridge, BC 1FTEW1EB0NKD12092 - Preston Chevrolet Buick GMC Cadillac.",
       "vin": "1FTEW1EB0NKD12092",
       "url": "https://willyml1979-dotcom.github.io/preston-chevrolet-buick-gmc-cadillac-ltd-mirror/used/85be41c08f16.html",
@@ -1925,6 +1885,28 @@
       "price_currency": "CAD"
     },
     {
+      "name": "2022 Jeep Compass for sale near Surrey & Maple Ridge, BC 3C4NJDCB3NT188711 - Preston Chevrolet Buick GMC Cadillac.",
+      "vin": "3C4NJDCB3NT188711",
+      "url": "https://willyml1979-dotcom.github.io/preston-chevrolet-buick-gmc-cadillac-ltd-mirror/used/4eb33dc9c557.html",
+      "year": 2022,
+      "make": "Jeep",
+      "model": "Compass",
+      "condition": "used",
+      "price": 26694.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2022 Mercedes-Benz A-Class for sale near Surrey & Maple Ridge, BC W1K3G4FB6NJ346974 - Preston Chevrolet Buick GMC Cadillac.",
+      "vin": "W1K3G4FB6NJ346974",
+      "url": "https://willyml1979-dotcom.github.io/preston-chevrolet-buick-gmc-cadillac-ltd-mirror/used/a92139382e2e.html",
+      "year": 2022,
+      "make": "Mercedes-Benz",
+      "model": "A-Class for sale near Surrey & Maple Ridge, BC W1K3G4FB6NJ346974 - Preston Chevrolet Buick GMC Cadillac.",
+      "condition": "used",
+      "price": 28186.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2022 Ram 1500 Classic for sale near Surrey & Maple Ridge, BC 3C6RR7KT2NG275831 - Preston Chevrolet Buick GMC Cadillac.",
       "vin": "3C6RR7KT2NG275831",
       "url": "https://willyml1979-dotcom.github.io/preston-chevrolet-buick-gmc-cadillac-ltd-mirror/used/060c2a17c46c.html",
@@ -1933,6 +1915,17 @@
       "model": "1500 Classic",
       "condition": "used",
       "price": 37694.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2023 Audi Q4 e-tron for sale near Surrey & Maple Ridge, BC WA1G2AFZ8PP039712 - Preston Chevrolet Buick GMC Cadillac.",
+      "vin": "WA1G2AFZ8PP039712",
+      "url": "https://willyml1979-dotcom.github.io/preston-chevrolet-buick-gmc-cadillac-ltd-mirror/used/f5fd6397c86e.html",
+      "year": 2023,
+      "make": "Audi",
+      "model": "Q4 e-tron",
+      "condition": "used",
+      "price": 39097.0,
       "price_currency": "CAD"
     },
     {
@@ -1958,6 +1951,28 @@
       "price_currency": "CAD"
     },
     {
+      "name": "2023 Cadillac XT4 for sale near Surrey & Maple Ridge, BC 1GYFZDR43PF200319 - Preston Chevrolet Buick GMC Cadillac.",
+      "vin": "1GYFZDR43PF200319",
+      "url": "https://willyml1979-dotcom.github.io/preston-chevrolet-buick-gmc-cadillac-ltd-mirror/used/99529c431159.html",
+      "year": 2023,
+      "make": "Cadillac",
+      "model": "XT4",
+      "condition": "used",
+      "price": 36694.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2023 Cadillac XT5 for sale near Surrey & Maple Ridge, BC 1GYKNGRS0PZ104687 - Preston Chevrolet Buick GMC Cadillac.",
+      "vin": "1GYKNGRS0PZ104687",
+      "url": "https://willyml1979-dotcom.github.io/preston-chevrolet-buick-gmc-cadillac-ltd-mirror/used/907f589c3325.html",
+      "year": 2023,
+      "make": "Cadillac",
+      "model": "XT5",
+      "condition": "used",
+      "price": 40694.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2023 Dodge Durango for sale near Surrey & Maple Ridge, BC 1C4SDJCT7PC571549 - Preston Chevrolet Buick GMC Cadillac.",
       "vin": "1C4SDJCT7PC571549",
       "url": "https://willyml1979-dotcom.github.io/preston-chevrolet-buick-gmc-cadillac-ltd-mirror/used/a40236e0dbd5.html",
@@ -1966,6 +1981,17 @@
       "model": "Durango",
       "condition": "used",
       "price": 39962.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2023 GMC Yukon for sale near Surrey & Maple Ridge, BC 1GKS2BKT9PR244164 - Preston Chevrolet Buick GMC Cadillac.",
+      "vin": "1GKS2BKT9PR244164",
+      "url": "https://willyml1979-dotcom.github.io/preston-chevrolet-buick-gmc-cadillac-ltd-mirror/used/26a60b85cb1a.html",
+      "year": 2023,
+      "make": "GMC",
+      "model": "Yukon",
+      "condition": "used",
+      "price": 66694.0,
       "price_currency": "CAD"
     },
     {
@@ -2054,6 +2080,17 @@
       "model": "Silverado 3500HD",
       "condition": "used",
       "price": 78534.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2024 Chevrolet Trax for sale near Surrey & Maple Ridge, BC KL77LGE23RC112583 - Preston Chevrolet Buick GMC Cadillac.",
+      "vin": "KL77LGE23RC112583",
+      "url": "https://willyml1979-dotcom.github.io/preston-chevrolet-buick-gmc-cadillac-ltd-mirror/used/4920e96cc2c4.html",
+      "year": 2024,
+      "make": "Chevrolet",
+      "model": "Trax",
+      "condition": "used",
+      "price": 22694.0,
       "price_currency": "CAD"
     },
     {
@@ -2317,6 +2354,17 @@
       "make": "Buick",
       "model": "Encore GX",
       "condition": "new"
+    },
+    {
+      "name": "2026 Cadillac CT5 for sale near Surrey & Maple Ridge, BC 1G6DU5RK4T0101654 - Preston Chevrolet Buick GMC Cadillac.",
+      "vin": "1G6DU5RK4T0101654",
+      "url": "https://willyml1979-dotcom.github.io/preston-chevrolet-buick-gmc-cadillac-ltd-mirror/used/66a3bf4d1399.html",
+      "year": 2026,
+      "make": "Cadillac",
+      "model": "CT5",
+      "condition": "used",
+      "price": 66694.0,
+      "price_currency": "CAD"
     },
     {
       "name": "2026 Chevrolet Equinox for sale near Surrey & Maple Ridge, BC 3GNAXPEGXTL283844 - Preston Chevrolet Buick GMC Cadillac.",
