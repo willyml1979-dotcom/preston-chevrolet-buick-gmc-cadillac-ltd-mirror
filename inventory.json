@@ -1,7 +1,7 @@
 {
   "dealership": "Preston Chevrolet Buick Gmc Cadillac Ltd",
-  "generated_at": "2026-11-18T11:21:23",
-  "vehicle_count": 364,
+  "generated_at": "2026-11-18T21:01:01",
+  "vehicle_count": 365,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -1099,12 +1099,6 @@
     },
     {
       "name": "New2026GMCCanyon4WDAT4",
-      "vin": "1GTP2DEK9T1124678",
-      "url": "https://willyml1979-dotcom.github.io/preston-chevrolet-buick-gmc-cadillac-ltd-mirror/new/4d614ec8efa6.html",
-      "condition": "new"
-    },
-    {
-      "name": "New2026GMCCanyon4WDAT4",
       "vin": "1GTP2DEKXT1279885",
       "url": "https://willyml1979-dotcom.github.io/preston-chevrolet-buick-gmc-cadillac-ltd-mirror/new/a9180be3d225.html",
       "condition": "new"
@@ -1215,12 +1209,6 @@
       "name": "New2026GMCSierra 15004WDElevation",
       "vin": "1GTUUCED5TZ417147",
       "url": "https://willyml1979-dotcom.github.io/preston-chevrolet-buick-gmc-cadillac-ltd-mirror/new/758b6775fd91.html",
-      "condition": "new"
-    },
-    {
-      "name": "New2026GMCSierra 15004WDElevation",
-      "vin": "1GTUUCED5TZ417732",
-      "url": "https://willyml1979-dotcom.github.io/preston-chevrolet-buick-gmc-cadillac-ltd-mirror/new/6617a2d1aec3.html",
       "condition": "new"
     },
     {
@@ -1434,12 +1422,6 @@
       "condition": "new"
     },
     {
-      "name": "New2026GMCSierra 3500HD4WDPro",
-      "vin": "1GT5USEY3TF219993",
-      "url": "https://willyml1979-dotcom.github.io/preston-chevrolet-buick-gmc-cadillac-ltd-mirror/new/a3ebabbad483.html",
-      "condition": "new"
-    },
-    {
       "name": "New2026GMCSierra 3500HD4WDSLE",
       "vin": "1GT4UTE75TF418553",
       "url": "https://willyml1979-dotcom.github.io/preston-chevrolet-buick-gmc-cadillac-ltd-mirror/new/77b49b665507.html",
@@ -1464,57 +1446,9 @@
       "condition": "new"
     },
     {
-      "name": "New2026GMCSierra 3500HD4WDSLT",
-      "vin": "1GT4UUEY2TF124266",
-      "url": "https://willyml1979-dotcom.github.io/preston-chevrolet-buick-gmc-cadillac-ltd-mirror/new/fa58a888671c.html",
-      "condition": "new"
-    },
-    {
-      "name": "New2026GMCSierra 3500HD4WDSLT",
-      "vin": "1GT4UUEY3TF122719",
-      "url": "https://willyml1979-dotcom.github.io/preston-chevrolet-buick-gmc-cadillac-ltd-mirror/new/57645bb1db54.html",
-      "condition": "new"
-    },
-    {
-      "name": "New2026GMCTerrainAWDAWD Denali",
-      "vin": "3GKALZEG1TL414194",
-      "url": "https://willyml1979-dotcom.github.io/preston-chevrolet-buick-gmc-cadillac-ltd-mirror/new/5fa0e05b6ce9.html",
-      "condition": "new"
-    },
-    {
-      "name": "New2026GMCTerrainAWDAWD Denali",
-      "vin": "3GKALZEG8TL436547",
-      "url": "https://willyml1979-dotcom.github.io/preston-chevrolet-buick-gmc-cadillac-ltd-mirror/new/1e229ba3cd75.html",
-      "condition": "new"
-    },
-    {
-      "name": "New2026GMCTerrainAWDAWD Denali",
-      "vin": "3GKALZEGXTL493008",
-      "url": "https://willyml1979-dotcom.github.io/preston-chevrolet-buick-gmc-cadillac-ltd-mirror/new/f69be309afd1.html",
-      "condition": "new"
-    },
-    {
-      "name": "New2026GMCTerrainFWDFWD Elevation",
-      "vin": "3GKALMEG3TL489692",
-      "url": "https://willyml1979-dotcom.github.io/preston-chevrolet-buick-gmc-cadillac-ltd-mirror/new/aa6d45436e10.html",
-      "condition": "new"
-    },
-    {
       "name": "New2026GMCYukon4WDDenali",
       "vin": "1GKS2DK87TR376647",
       "url": "https://willyml1979-dotcom.github.io/preston-chevrolet-buick-gmc-cadillac-ltd-mirror/new/b85e8b69ece9.html",
-      "condition": "new"
-    },
-    {
-      "name": "New2026GMCYukon XL4WDDenali",
-      "vin": "1GKS2JKLXTR419431",
-      "url": "https://willyml1979-dotcom.github.io/preston-chevrolet-buick-gmc-cadillac-ltd-mirror/new/da167f98e9d9.html",
-      "condition": "new"
-    },
-    {
-      "name": "New2026GMCYukon XL4WDDenali Ultimate",
-      "vin": "1GKS2KKL5TR406429",
-      "url": "https://willyml1979-dotcom.github.io/preston-chevrolet-buick-gmc-cadillac-ltd-mirror/new/13cb4b55a29c.html",
       "condition": "new"
     },
     {
@@ -1693,6 +1627,12 @@
     },
     {
       "name": "New2027ChevroletTraverseAWDZ71",
+      "vin": "1GNEVJKS1VJ203614",
+      "url": "https://willyml1979-dotcom.github.io/preston-chevrolet-buick-gmc-cadillac-ltd-mirror/new/e8b8771bfabc.html",
+      "condition": "new"
+    },
+    {
+      "name": "New2027ChevroletTraverseAWDZ71",
       "vin": "1GNEVJKS5VJ144485",
       "url": "https://willyml1979-dotcom.github.io/preston-chevrolet-buick-gmc-cadillac-ltd-mirror/new/b7eeea793674.html",
       "condition": "new"
@@ -1713,6 +1653,12 @@
       "name": "New2027GMCCanyon4WDAT4",
       "vin": "1GTP2DEE7V1118701",
       "url": "https://willyml1979-dotcom.github.io/preston-chevrolet-buick-gmc-cadillac-ltd-mirror/new/4a09d2644052.html",
+      "condition": "new"
+    },
+    {
+      "name": "New2027GMCCanyon4WDElevation",
+      "vin": "1GTP2BEE9V1122026",
+      "url": "https://willyml1979-dotcom.github.io/preston-chevrolet-buick-gmc-cadillac-ltd-mirror/new/081a7a382e19.html",
       "condition": "new"
     },
     {
@@ -1761,6 +1707,12 @@
       "name": "New2027GMCYukon4WDAT4",
       "vin": "1GKS2CKD4VR169868",
       "url": "https://willyml1979-dotcom.github.io/preston-chevrolet-buick-gmc-cadillac-ltd-mirror/new/ce5920a5ccf4.html",
+      "condition": "new"
+    },
+    {
+      "name": "New2027GMCYukon4WDDenali",
+      "vin": "1GKS2DKL7VR176875",
+      "url": "https://willyml1979-dotcom.github.io/preston-chevrolet-buick-gmc-cadillac-ltd-mirror/new/53ce0ef05478.html",
       "condition": "new"
     },
     {
@@ -2411,6 +2363,15 @@
       "price_currency": "CAD"
     },
     {
+      "name": "2026 Chevrolet Equinox EV for sale near Surrey & Maple Ridge, BC 3GN7DLRR4TS185129 - Preston Chevrolet Buick GMC Cadillac.",
+      "vin": "3GN7DLRR4TS185129",
+      "url": "https://willyml1979-dotcom.github.io/preston-chevrolet-buick-gmc-cadillac-ltd-mirror/new/454bdbe8d592.html",
+      "year": 2026,
+      "make": "Chevrolet",
+      "model": "Equinox EV",
+      "condition": "new"
+    },
+    {
       "name": "2026 Chevrolet Trax for sale near Surrey & Maple Ridge, BC KL77LHE29TC284050 - Preston Chevrolet Buick GMC Cadillac.",
       "vin": "KL77LHE29TC284050",
       "url": "https://willyml1979-dotcom.github.io/preston-chevrolet-buick-gmc-cadillac-ltd-mirror/new/a8f6a2398d54.html",
@@ -2573,12 +2534,93 @@
       "condition": "new"
     },
     {
+      "name": "2026 GMC Sierra 3500HD for sale near Surrey & Maple Ridge, BC 1GT5USEY3TF219993 - Preston Chevrolet Buick GMC Cadillac.",
+      "vin": "1GT5USEY3TF219993",
+      "url": "https://willyml1979-dotcom.github.io/preston-chevrolet-buick-gmc-cadillac-ltd-mirror/new/a3ebabbad483.html",
+      "year": 2026,
+      "make": "GMC",
+      "model": "Sierra 3500HD",
+      "condition": "new"
+    },
+    {
+      "name": "2026 GMC Sierra 3500HD for sale near Surrey & Maple Ridge, BC 1GT4UUEY2TF124266 - Preston Chevrolet Buick GMC Cadillac.",
+      "vin": "1GT4UUEY2TF124266",
+      "url": "https://willyml1979-dotcom.github.io/preston-chevrolet-buick-gmc-cadillac-ltd-mirror/new/fa58a888671c.html",
+      "year": 2026,
+      "make": "GMC",
+      "model": "Sierra 3500HD",
+      "condition": "new"
+    },
+    {
+      "name": "2026 GMC Sierra 3500HD for sale near Surrey & Maple Ridge, BC 1GT4UUEY3TF122719 - Preston Chevrolet Buick GMC Cadillac.",
+      "vin": "1GT4UUEY3TF122719",
+      "url": "https://willyml1979-dotcom.github.io/preston-chevrolet-buick-gmc-cadillac-ltd-mirror/new/57645bb1db54.html",
+      "year": 2026,
+      "make": "GMC",
+      "model": "Sierra 3500HD",
+      "condition": "new"
+    },
+    {
+      "name": "2026 GMC Terrain for sale near Surrey & Maple Ridge, BC 3GKALZEG1TL414194 - Preston Chevrolet Buick GMC Cadillac.",
+      "vin": "3GKALZEG1TL414194",
+      "url": "https://willyml1979-dotcom.github.io/preston-chevrolet-buick-gmc-cadillac-ltd-mirror/new/5fa0e05b6ce9.html",
+      "year": 2026,
+      "make": "GMC",
+      "model": "Terrain",
+      "condition": "new"
+    },
+    {
+      "name": "2026 GMC Terrain for sale near Surrey & Maple Ridge, BC 3GKALZEG8TL436547 - Preston Chevrolet Buick GMC Cadillac.",
+      "vin": "3GKALZEG8TL436547",
+      "url": "https://willyml1979-dotcom.github.io/preston-chevrolet-buick-gmc-cadillac-ltd-mirror/new/1e229ba3cd75.html",
+      "year": 2026,
+      "make": "GMC",
+      "model": "Terrain",
+      "condition": "new"
+    },
+    {
+      "name": "2026 GMC Terrain for sale near Surrey & Maple Ridge, BC 3GKALZEGXTL493008 - Preston Chevrolet Buick GMC Cadillac.",
+      "vin": "3GKALZEGXTL493008",
+      "url": "https://willyml1979-dotcom.github.io/preston-chevrolet-buick-gmc-cadillac-ltd-mirror/new/f69be309afd1.html",
+      "year": 2026,
+      "make": "GMC",
+      "model": "Terrain",
+      "condition": "new"
+    },
+    {
+      "name": "2026 GMC Terrain for sale near Surrey & Maple Ridge, BC 3GKALMEG3TL489692 - Preston Chevrolet Buick GMC Cadillac.",
+      "vin": "3GKALMEG3TL489692",
+      "url": "https://willyml1979-dotcom.github.io/preston-chevrolet-buick-gmc-cadillac-ltd-mirror/new/aa6d45436e10.html",
+      "year": 2026,
+      "make": "GMC",
+      "model": "Terrain",
+      "condition": "new"
+    },
+    {
       "name": "2026 GMC Yukon for sale near Surrey & Maple Ridge, BC 1GKS2DKLXTR412089 - Preston Chevrolet Buick GMC Cadillac.",
       "vin": "1GKS2DKLXTR412089",
       "url": "https://willyml1979-dotcom.github.io/preston-chevrolet-buick-gmc-cadillac-ltd-mirror/new/da6ad1e6567a.html",
       "year": 2026,
       "make": "GMC",
       "model": "Yukon",
+      "condition": "new"
+    },
+    {
+      "name": "2026 GMC Yukon XL for sale near Surrey & Maple Ridge, BC 1GKS2JKLXTR419431 - Preston Chevrolet Buick GMC Cadillac.",
+      "vin": "1GKS2JKLXTR419431",
+      "url": "https://willyml1979-dotcom.github.io/preston-chevrolet-buick-gmc-cadillac-ltd-mirror/new/da167f98e9d9.html",
+      "year": 2026,
+      "make": "GMC",
+      "model": "Yukon XL",
+      "condition": "new"
+    },
+    {
+      "name": "2026 GMC Yukon XL for sale near Surrey & Maple Ridge, BC 1GKS2KKL5TR406429 - Preston Chevrolet Buick GMC Cadillac.",
+      "vin": "1GKS2KKL5TR406429",
+      "url": "https://willyml1979-dotcom.github.io/preston-chevrolet-buick-gmc-cadillac-ltd-mirror/new/13cb4b55a29c.html",
+      "year": 2026,
+      "make": "GMC",
+      "model": "Yukon XL",
       "condition": "new"
     },
     {
@@ -2596,15 +2638,6 @@
       "name": "2027 Chevrolet Equinox EV for sale near Surrey & Maple Ridge, BC 3GN7DMRP1VS109200 - Preston Chevrolet Buick GMC Cadillac.",
       "vin": "3GN7DMRP1VS109200",
       "url": "https://willyml1979-dotcom.github.io/preston-chevrolet-buick-gmc-cadillac-ltd-mirror/new/73929772e54d.html",
-      "year": 2027,
-      "make": "Chevrolet",
-      "model": "Equinox EV",
-      "condition": "new"
-    },
-    {
-      "name": "2027 Chevrolet Equinox EV for sale near Surrey & Maple Ridge, BC 3GN7DMRP2VS107052 - Preston Chevrolet Buick GMC Cadillac.",
-      "vin": "3GN7DMRP2VS107052",
-      "url": "https://willyml1979-dotcom.github.io/preston-chevrolet-buick-gmc-cadillac-ltd-mirror/new/402c507e8b96.html",
       "year": 2027,
       "make": "Chevrolet",
       "model": "Equinox EV",
